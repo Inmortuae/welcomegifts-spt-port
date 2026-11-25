@@ -1,0 +1,91 @@
+name: Publish Welcome Gifts 4.3.1
+
+on:
+  push:
+    branches:
+      - release-publish-v4.3.1
+    paths:
+      - .github/workflows/publish-v4.3.1.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: welcome-gifts-v4-3-1
+
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
+    env:
+      SOURCE_COMMIT: b03d9919722df9957b611681dd059189e12aeda5
+      RELEASE_TAG: v4.3.1
+      RELEASE_ASSET: WelcomeGifts-4.3.1-SPT-4.1.6.zip
+    steps:
+      - name: Check out the verified public source
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        with:
+          ref: ${{ env.SOURCE_COMMIT }}
+          persist-credentials: false
+
+      - name: Install .NET 10
+        uses: actions/setup-dotnet@26b0ec14cb23fa6904739307f278c14f94c95bf1
+        with:
+          dotnet-version: 10.0.x
+
+      - name: Build and verify the install ZIP
+        shell: bash
+        run: |
+          set -euo pipefail
+          dotnet build WelcomeGifts.csproj --configuration Release
+          build_root="$(mktemp -d)"
+          mod_path="$build_root/SPT_Runtime/user/mods/WelcomeGifts"
+          mkdir -p "$mod_path"
+          cp README.md LICENSE WelcomeGifts.csproj WelcomeGifts.cs GiftQuestLoader.cs "$mod_path/"
+          cp -R db "$mod_path/"
+          cp bin/Release/net10.0/WelcomeGifts.dll "$mod_path/"
+          test ! -e "$mod_path/db/CustomQuests/Fence/Quests/recent_gifts.json"
+          cmp db/GiftRecipes.json "$mod_path/db/GiftRecipes.json"
+          (
+            cd "$build_root"
+            zip -q -r "$GITHUB_WORKSPACE/$RELEASE_ASSET" SPT_Runtime
+          )
+          unzip -tq "$RELEASE_ASSET"
+          sha256sum "$RELEASE_ASSET"
+
+      - name: Publish the versioned GitHub release
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          asset_hash="$(sha256sum "$RELEASE_ASSET" | cut -d ' ' -f 1)"
+          notes="$(mktemp)"
+          cat > "$notes" <<'NOTES'
+          Welcome Gifts 4.3.1 adds and restores gift quests for SPT 4.1.6. The 47 newer tasks assemble stock rewards from your installed SPT presets. The release retains quest IDs, the Extra Gear prerequisites, and support for optional WTT Content Backport gear.
+
+          1. Close the SPT client and server.
+          2. Install [WTT CommonLib 3.0.8](https://sp-mod.com/mod/2310/wtt-commonlib) and move any older Welcome Gifts folder out of the mods directory.
+          3. Extract the attached install ZIP into your SPT game folder. Check Fence and Skier for gift tasks.
+
+          The source commit passed an isolated SPT 4.1.6 startup test. In-game claiming and Fika remain unverified.
+
+          Original mod by ShadowXtrex (EFCL) and Senko. [Upstream source](https://gitlab.com/ShadowXtrex/welcomegifts).
+          NOTES
+          printf '\n**Install ZIP SHA-256** `%s`\n' "$asset_hash" >> "$notes"
+          title='Welcome Gifts 4.3.1 for SPT 4.1.6'
+          matches="$(gh api "repos/$GITHUB_REPOSITORY/releases?per_page=100" --paginate --jq             '.[] | select(.tag_name == "v4.3.1") | .draft')"
+          case "$matches" in
+            true)
+              gh release upload "$RELEASE_TAG" "$RELEASE_ASSET" --clobber
+              gh release edit "$RELEASE_TAG" --draft=false --target "$SOURCE_COMMIT" --title "$title" --notes-file "$notes"
+              ;;
+            '')
+              gh release create "$RELEASE_TAG" "$RELEASE_ASSET" --target "$SOURCE_COMMIT" --title "$title" --notes-file "$notes"
+              ;;
+            *)
+              printf '%s\n' 'A published release or multiple drafts already use this tag.'
+              exit 1
+              ;;
+          esac
+          gh release view "$RELEASE_TAG" --json url,tagName,isDraft,assets
