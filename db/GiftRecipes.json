@@ -1,0 +1,1642 @@
+{
+  "description": "Welcome Gifts mod-authored reward recipes. Each reward references a stock public SPT item template and a mod-selected quantity. Complete item presets are built from the installed server.",
+  "stockItemReferences": "https://github.com/SP-Tushonka/server-csharp/blob/731d7a2a4418865c37141862ec5ad2451525f7f8/Libraries/SPTushonka.Server.Assets/SPT_Data/database/templates/items.json",
+  "stockItemDatabaseSha256": "5093b348fd0d507cddc1e957114a77b44ff9358846299cbc98ac5e0ad4967a34",
+  "publicRewardReferences": [
+    "https://volx.jp/eft-promo-code-2025/",
+    "https://v-tarkov.ru/en/promocode",
+    "https://insider-gaming.com/tarkov-lunar-new-year-gift-how-to-unlock-bundle/",
+    "https://steamcommunity.com/app/3932890/discussions/1/836123461384489035/"
+  ],
+  "gifts": [
+    {
+      "id": "487d50455f3a0e9fd99a178a",
+      "name": "Christmas Gift 2025",
+      "rewards": [
+        {
+          "name": "Mr. Holodilnick thermal bag",
+          "template": "5c093db286f7740a1b2617e3",
+          "quantity": 1
+        },
+        {
+          "name": "Salty Dog beef sausage",
+          "template": "635a758bfefc88a93f021b8a",
+          "quantity": 1
+        },
+        {
+          "name": "Can of RatCola soda",
+          "template": "60b0f93284c20f0feb453da7",
+          "quantity": 3
+        },
+        {
+          "name": "Bottle of Fierce Hatchling moonshine",
+          "template": "5d1b376e86f774252519444e",
+          "quantity": 1
+        },
+        {
+          "name": "Olivier salad box",
+          "template": "67586b7e49c2fa592e0d8ed9",
+          "quantity": 3
+        },
+        {
+          "name": "Can of squash spread",
+          "template": "57347d8724597744596b4e76",
+          "quantity": 1
+        },
+        {
+          "name": "Pack of instant noodles",
+          "template": "656df4fec921ad01000481a2",
+          "quantity": 3
+        },
+        {
+          "name": "Bottle of Dan Jackiel whiskey",
+          "template": "5d403f9186f7743cac3f229b",
+          "quantity": 1
+        },
+        {
+          "name": "Can of beef stew (Large)",
+          "template": "57347da92459774491567cf5",
+          "quantity": 1
+        },
+        {
+          "name": "Army crackers",
+          "template": "5448ff904bdc2d6f028b456e",
+          "quantity": 3
+        },
+        {
+          "name": "26x75mm flare cartridge (Green)",
+          "template": "62389aaba63f32501b1b444f",
+          "quantity": 1
+        },
+        {
+          "name": "26x75mm flare cartridge (Red)",
+          "template": "62389ba9a63f32501b1b4451",
+          "quantity": 1
+        },
+        {
+          "name": "26x75mm flare cartridge (White)",
+          "template": "62389bc9423ed1685422dc57",
+          "quantity": 1
+        },
+        {
+          "name": "Christmas tree ornament (Red)",
+          "template": "5df8a6a186f77412640e2e80",
+          "quantity": 2
+        },
+        {
+          "name": "Christmas tree ornament (Silver)",
+          "template": "5df8a72c86f77412640e2e83",
+          "quantity": 2
+        },
+        {
+          "name": "Christmas tree ornament (Violet)",
+          "template": "5df8a77486f77412672a1e3f",
+          "quantity": 2
+        },
+        {
+          "name": "ZiD SP-81 26x75 signal pistol",
+          "template": "620109578d82e67e7911abf2",
+          "quantity": 1
+        },
+        {
+          "name": "Knight's Armament Company SR-25 7.62x51 marksman rifle",
+          "template": "5df8ce05b11454561e39243b",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "1e125aa0e042afe652b5be95",
+      "name": "Lunar New Year 2026",
+      "rewards": [
+        {
+          "name": "IWI UZI PRO SMG 9x19 submachine gun",
+          "template": "668e71a8dadf42204c032ce1",
+          "quantity": 1
+        },
+        {
+          "name": "RSP-30 reactive signal cartridge (Red)",
+          "template": "62178c4d4ecf221597654e3d",
+          "quantity": 2
+        },
+        {
+          "name": "Golden Star balm",
+          "template": "5751a89d24597722aa0e8db0",
+          "quantity": 2
+        },
+        {
+          "name": "9x19mm Green Tracer",
+          "template": "5c3df7d588a4501f290594e5",
+          "quantity": 150
+        },
+        {
+          "name": "7.62x51mm M62 Tracer",
+          "template": "5a608bf24f39f98ffc77720e",
+          "quantity": 60
+        },
+        {
+          "name": "UZI PRO 9x19 32-round magazine",
+          "template": "66866f622a2296a8d9099639",
+          "quantity": 3
+        },
+        {
+          "name": "Alyonka chocolate bar",
+          "template": "57505f6224597709a92585a9",
+          "quantity": 3
+        },
+        {
+          "name": "Horse figurine",
+          "template": "573478bc24597738002c6175",
+          "quantity": 3
+        },
+        {
+          "name": "SurvL Survivor Lighter",
+          "template": "5e2af37686f774755a234b65",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "97950370433e47a62b0c2196",
+      "name": "Battlestate Games 12th Anniversary",
+      "rewards": [
+        {
+          "name": "BakeEzy cook book",
+          "template": "62a09e73af34e73a266d932a",
+          "quantity": 1
+        },
+        {
+          "name": "Can of condensed milk",
+          "template": "5734773724597737fd047c14",
+          "quantity": 1
+        },
+        {
+          "name": "Pack of milk",
+          "template": "575146b724597720a27126d5",
+          "quantity": 1
+        },
+        {
+          "name": "Pack of sugar",
+          "template": "59e3577886f774176a362503",
+          "quantity": 1
+        },
+        {
+          "name": "Alyonka chocolate bar",
+          "template": "57505f6224597709a92585a9",
+          "quantity": 1
+        },
+        {
+          "name": "Army crackers",
+          "template": "5448ff904bdc2d6f028b456e",
+          "quantity": 1
+        },
+        {
+          "name": "Can of white salt",
+          "template": "62a09ee4cf4a99369e262453",
+          "quantity": 1
+        },
+        {
+          "name": "Pack of sodium bicarbonate",
+          "template": "59e35abd86f7741778269d82",
+          "quantity": 1
+        },
+        {
+          "name": "42 Signature Blend English Tea",
+          "template": "5bc9be8fd4351e00334cae6e",
+          "quantity": 1
+        },
+        {
+          "name": "Bottle of Fierce Hatchling moonshine",
+          "template": "5d1b376e86f774252519444e",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "e52cc1fb67547714b7c00751",
+      "name": "READ80LV",
+      "rewards": [
+        {
+          "name": "Round pliers",
+          "template": "5d1b31ce86f7742523398394",
+          "quantity": 1
+        },
+        {
+          "name": "Cat figurine",
+          "template": "59e3658a86f7741776641ac4",
+          "quantity": 1
+        },
+        {
+          "name": "Fleece fabric",
+          "template": "5e2af47786f7746d404f3aaa",
+          "quantity": 5
+        },
+        {
+          "name": "Light bulb",
+          "template": "5d1b392c86f77425243e98fe",
+          "quantity": 5
+        },
+        {
+          "name": "Pack of nails",
+          "template": "590c31c586f774245e3141b2",
+          "quantity": 5
+        },
+        {
+          "name": "Insulating tape",
+          "template": "5734795124597738002c6176",
+          "quantity": 5
+        },
+        {
+          "name": "Bottle of water (0.6L)",
+          "template": "5448fee04bdc2dbc018b4567",
+          "quantity": 2
+        },
+        {
+          "name": "Smoked Chimney drain cleaner",
+          "template": "5e2af00086f7746d3f3c33f7",
+          "quantity": 1
+        },
+        {
+          "name": "Graphics card",
+          "template": "57347ca924597744596b4e71",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "ac2ddd57365c177366823e7c",
+      "name": "PLAYYOURWAY",
+      "rewards": [
+        {
+          "name": "BEAR operative figurine",
+          "template": "655c652d60d0ac437100fed7",
+          "quantity": 1
+        },
+        {
+          "name": "USEC operative figurine",
+          "template": "655c663a6689c676ce57af85",
+          "quantity": 1
+        },
+        {
+          "name": "Politician Mutkevich figurine",
+          "template": "655c66e40b2de553b618d4b8",
+          "quantity": 1
+        },
+        {
+          "name": "Cultist figurine",
+          "template": "655c669103999d3c810c025b",
+          "quantity": 1
+        },
+        {
+          "name": "Reshala figurine",
+          "template": "66572be36a723f7f005a066e",
+          "quantity": 1
+        },
+        {
+          "name": "Tagilla figurine",
+          "template": "66572cbdad599021091c611a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "da588320e6c642a0c6cba775",
+      "name": "EMBRACEPAIN",
+      "rewards": [
+        {
+          "name": "Propital regenerative stimulant injector",
+          "template": "5c0e530286f7747fa1419862",
+          "quantity": 2
+        },
+        {
+          "name": "Zagustin hemostatic drug injector",
+          "template": "5c0e533786f7747fa23f4d47",
+          "quantity": 2
+        },
+        {
+          "name": "Obdolbos cocktail injector",
+          "template": "5ed5166ad380ab312177c100",
+          "quantity": 2
+        },
+        {
+          "name": "Obdolbos 2 cocktail injector",
+          "template": "637b60c3b7afa97bfc3d7001",
+          "quantity": 2
+        },
+        {
+          "name": "Trimadol stimulant injector",
+          "template": "637b620db7afa97bfc3d7009",
+          "quantity": 2
+        },
+        {
+          "name": "SJ6 TGLabs combat stimulant injector",
+          "template": "5c0e531d86f7747fa23f4d42",
+          "quantity": 2
+        },
+        {
+          "name": "eTG-change regenerative stimulant injector",
+          "template": "5c0e534186f7747fa1419867",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "65655fb3385350a0c51b5270",
+      "name": "UNDEADTARKOV",
+      "rewards": [
+        {
+          "name": "Stich Profi Plate Carrier V2 (Black)",
+          "template": "66b6296d7994640992013b17",
+          "quantity": 2
+        },
+        {
+          "name": "Benelli M3 Super 90 12ga dual-mode shotgun",
+          "template": "6259b864ebedf17603599e88",
+          "quantity": 2
+        },
+        {
+          "name": "HighCom Striker ULACH IIIA helmet (Black)",
+          "template": "5b40e1525acfc4771e1c6611",
+          "quantity": 2
+        },
+        {
+          "name": "12/70 flechette",
+          "template": "5d6e6911a4b9361bd5780d52",
+          "quantity": 120
+        },
+        {
+          "name": "Peltor ComTac V headset (OD Green)",
+          "template": "66b5f693acff495a294927e3",
+          "quantity": 2
+        },
+        {
+          "name": "Salewa first aid kit",
+          "template": "544fb45d4bdc2dee738b4568",
+          "quantity": 2
+        },
+        {
+          "name": "CALOK-B hemostatic applicator",
+          "template": "5e8488fa988a8701445df1e4",
+          "quantity": 6
+        },
+        {
+          "name": "Army bandage",
+          "template": "5751a25924597722c463c472",
+          "quantity": 4
+        },
+        {
+          "name": "Vaseline balm",
+          "template": "5755383e24597772cb798966",
+          "quantity": 6
+        },
+        {
+          "name": "RGD-5 hand grenade",
+          "template": "5448be9a4bdc2dfd2f8b456a",
+          "quantity": 4
+        },
+        {
+          "name": "Delta-Tek Sprut mount for pump-action shotguns",
+          "template": "55d48ebc4bdc2d8c2f8b456c",
+          "quantity": 2
+        },
+        {
+          "name": "Zenit Klesch-2P flashlight with laser",
+          "template": "560d657b4bdc2da74d8b4572",
+          "quantity": 2
+        },
+        {
+          "name": "Medical tools",
+          "template": "619cc01e0a7c3a1a2731940c",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "789c494ebe114ba6f2ddeb89",
+      "name": "TARKOVHALLOWEEN",
+      "rewards": [
+        {
+          "name": "Degtyarev RPDN 7.62x39 machine gun",
+          "template": "65268d8ecb944ff1e90ea385",
+          "quantity": 1
+        },
+        {
+          "name": "Ballistic Armor Co. Bastion helmet (MultiCam)",
+          "template": "66b5f666cad6f002ab7214c2",
+          "quantity": 1
+        },
+        {
+          "name": "WARTECH TV-110 plate carrier (Coyote)",
+          "template": "5c0e746986f7741453628fe5",
+          "quantity": 1
+        },
+        {
+          "name": "Peltor ComTac V headset (OD Green)",
+          "template": "66b5f693acff495a294927e3",
+          "quantity": 1
+        },
+        {
+          "name": "RPD 7.62x39 Buben 100-round box",
+          "template": "6513f0a194c72326990a3868",
+          "quantity": 2
+        },
+        {
+          "name": "Grizzly medical kit",
+          "template": "590c657e86f77412b013051d",
+          "quantity": 2
+        },
+        {
+          "name": "Toolset",
+          "template": "590c2e1186f77425357b6124",
+          "quantity": 2
+        },
+        {
+          "name": "7.62x39mm HP",
+          "template": "59e4d3d286f774176a36250a",
+          "quantity": 300
+        },
+        {
+          "name": "F-1 hand grenade",
+          "template": "5710c24ad2720bc3458b45a3",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": "100bb2d8ea880d2a883d7267",
+      "name": "BOATTRIP",
+      "rewards": [
+        {
+          "name": "Roubles",
+          "template": "5449016a4bdc2d6f028b456f",
+          "quantity": 400000
+        },
+        {
+          "name": "Euros",
+          "template": "569668774bdc2da2298b4568",
+          "quantity": 2500
+        },
+        {
+          "name": "Vaseline balm",
+          "template": "5755383e24597772cb798966",
+          "quantity": 1
+        },
+        {
+          "name": "RSP-30 reactive signal cartridge (Green)",
+          "template": "6217726288ed9f0845317459",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "c3918d523db6d932704ce420",
+      "name": "CARGOSHIP",
+      "rewards": [
+        {
+          "name": "Soap",
+          "template": "5c13cd2486f774072c757944",
+          "quantity": 1
+        },
+        {
+          "name": "Intelligence folder",
+          "template": "5c12613b86f7743bbe2c3f76",
+          "quantity": 1
+        },
+        {
+          "name": "GP-7 gas mask",
+          "template": "60363c0c92ec1c31037959f5",
+          "quantity": 2
+        },
+        {
+          "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+          "template": "5926bb2186f7744b1c6c6e60",
+          "quantity": 2
+        },
+        {
+          "name": "Door Kicker boonie hat",
+          "template": "5d96141523f0ea1b7f2aacab",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "28516d75c6d702fb31398c95",
+      "name": "POWERMOVE",
+      "rewards": [
+        {
+          "name": "Power supply unit",
+          "template": "57347c2e24597744902c94a1",
+          "quantity": 5
+        },
+        {
+          "name": "VPX Flash Storage Module",
+          "template": "5c05300686f7746dce784e5d",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "5ea2499c7e198d64fe5b05fb",
+      "name": "INEEDSPACE",
+      "rewards": [
+        {
+          "name": "Weapon case",
+          "template": "59fb023c86f7746d0d4b423c",
+          "quantity": 1
+        },
+        {
+          "name": "Ammunition case",
+          "template": "5aafbde786f774389d0cbc0f",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "58def3cc8d0e781eaa65bfb9",
+      "name": "OEFT7THBDAY",
+      "rewards": [
+        {
+          "name": "Pack of milk",
+          "template": "575146b724597720a27126d5",
+          "quantity": 5
+        },
+        {
+          "name": "Alyonka chocolate bar",
+          "template": "57505f6224597709a92585a9",
+          "quantity": 5
+        },
+        {
+          "name": "Slickers chocolate bar",
+          "template": "544fb6cc4bdc2d34748b456e",
+          "quantity": 5
+        },
+        {
+          "name": "Pack of sugar",
+          "template": "59e3577886f774176a362503",
+          "quantity": 5
+        },
+        {
+          "name": "Bottle of Fierce Hatchling moonshine",
+          "template": "5d1b376e86f774252519444e",
+          "quantity": 1
+        },
+        {
+          "name": "Bottle of Tarkovskaya vodka",
+          "template": "5d40407c86f774318526545a",
+          "quantity": 1
+        },
+        {
+          "name": "Bottle of Dan Jackiel whiskey",
+          "template": "5d403f9186f7743cac3f229b",
+          "quantity": 1
+        },
+        {
+          "name": "BEAR Buddy plush toy",
+          "template": "62a08f4c4f842e1bd12d9d62",
+          "quantity": 1
+        },
+        {
+          "name": "BEAR operative figurine",
+          "template": "655c652d60d0ac437100fed7",
+          "quantity": 1
+        },
+        {
+          "name": "USEC operative figurine",
+          "template": "655c663a6689c676ce57af85",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "64725eefa93da5c458305dda",
+      "name": "MRPROPER",
+      "rewards": [
+        {
+          "name": "Smoked Chimney drain cleaner",
+          "template": "5e2af00086f7746d3f3c33f7",
+          "quantity": 2
+        },
+        {
+          "name": "Ox bleach",
+          "template": "59e3556c86f7741776641ac2",
+          "quantity": 2
+        },
+        {
+          "name": "Clin window cleaner",
+          "template": "59e358a886f7741776641ac3",
+          "quantity": 2
+        },
+        {
+          "name": "Alkaline cleaner for heat exchangers",
+          "template": "59faf98186f774067b6be103",
+          "quantity": 2
+        },
+        {
+          "name": "Pack of chlorine",
+          "template": "5e2af02c86f7746d420957d4",
+          "quantity": 1
+        },
+        {
+          "name": "Pack of sodium bicarbonate",
+          "template": "59e35abd86f7741778269d82",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "15911716c8641f2b743c96f7",
+      "name": "PAWNSHOP",
+      "rewards": [
+        {
+          "name": "Roler Submariner gold wrist watch",
+          "template": "59faf7ca86f7740dbe19f6c2",
+          "quantity": 1
+        },
+        {
+          "name": "Gold skull ring",
+          "template": "5d235a5986f77443f6329bc6",
+          "quantity": 2
+        },
+        {
+          "name": "Golden egg",
+          "template": "62a09cfe4f842e1bd12da3e4",
+          "quantity": 1
+        },
+        {
+          "name": "Battered antique book",
+          "template": "5bc9c049d4351e44f824d360",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "e4965864da160f7c81d4a5c2",
+      "name": "SOMESTUFF",
+      "rewards": [
+        {
+          "name": "Fuel conditioner",
+          "template": "5b43575a86f77424f443fe62",
+          "quantity": 2
+        },
+        {
+          "name": "Corrugated hose",
+          "template": "59e35cbb86f7741778269d83",
+          "quantity": 2
+        },
+        {
+          "name": "Aramid fiber fabric",
+          "template": "5e2af4d286f7746d4159f07a",
+          "quantity": 2
+        },
+        {
+          "name": "Ripstop fabric",
+          "template": "5e2af4a786f7746d3f3c3400",
+          "quantity": 3
+        },
+        {
+          "name": "Screwdriver",
+          "template": "590c2d8786f774245b1f03f3",
+          "quantity": 1
+        },
+        {
+          "name": "GP coin",
+          "template": "5d235b4d86f7742e017bc88a",
+          "quantity": 50
+        },
+        {
+          "name": "Propane tank (5L)",
+          "template": "59fafb5d86f774067a6f2084",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "35b2365aca8744205f4478a3",
+      "name": "BANHAMMER",
+      "rewards": [
+        {
+          "name": "Fierce Blow sledgehammer",
+          "template": "63a0b208f444d32d6f03ea1e",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "727219b9754d8eb0005a0d26",
+      "name": "GETWELLBEWELL",
+      "rewards": [
+        {
+          "name": "Golden Star balm",
+          "template": "5751a89d24597722aa0e8db0",
+          "quantity": 1
+        },
+        {
+          "name": "Ibuprofen painkillers",
+          "template": "5af0548586f7743a532b7e99",
+          "quantity": 1
+        },
+        {
+          "name": "Augmentin antibiotic pills",
+          "template": "590c695186f7741e566b64a2",
+          "quantity": 1
+        },
+        {
+          "name": "Propital regenerative stimulant injector",
+          "template": "5c0e530286f7747fa1419862",
+          "quantity": 1
+        },
+        {
+          "name": "Bottle of OLOLO Multivitamins",
+          "template": "62a0a043cf4a99369e2624a5",
+          "quantity": 1
+        },
+        {
+          "name": "Pile of meds",
+          "template": "5d1b3a5d86f774252167ba22",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "45ce42130711af9354c370d3",
+      "name": "ONEMILLIONPLUS",
+      "rewards": [
+        {
+          "name": "Roubles",
+          "template": "5449016a4bdc2d6f028b456f",
+          "quantity": 1000000
+        }
+      ]
+    },
+    {
+      "id": "980053293e72da94fd64543c",
+      "name": "USETHETAPE",
+      "rewards": [
+        {
+          "name": "Insulating tape",
+          "template": "5734795124597738002c6176",
+          "quantity": 5
+        },
+        {
+          "name": "KEKTAPE duct tape",
+          "template": "5e2af29386f7746d4159f077",
+          "quantity": 2
+        },
+        {
+          "name": "Duct tape",
+          "template": "57347c1124597737fb1379e3",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "2a9cac43c51745facadb786a",
+      "name": "WINTERISHERE",
+      "rewards": [
+        {
+          "name": "Ushanka ear flap hat",
+          "template": "59e7708286f7742cbd762753",
+          "quantity": 1
+        },
+        {
+          "name": "Ski hat with holes for eyes",
+          "template": "5ab8f20c86f7745cdb629fb2",
+          "quantity": 1
+        },
+        {
+          "name": "Hunting matches",
+          "template": "5e2af2bc86f7746d3f3c33fc",
+          "quantity": 2
+        },
+        {
+          "name": "Dry fuel",
+          "template": "590a373286f774287540368b",
+          "quantity": 2
+        },
+        {
+          "name": "42 Signature Blend English Tea",
+          "template": "5bc9be8fd4351e00334cae6e",
+          "quantity": 1
+        },
+        {
+          "name": "Aquamari water bottle with filter",
+          "template": "5c0fa877d174af02a012e1cf",
+          "quantity": 1
+        },
+        {
+          "name": "#FireKlean gun lube",
+          "template": "5bc9b355d4351e6d1509862a",
+          "quantity": 1
+        },
+        {
+          "name": "Metal fuel tank",
+          "template": "5d1b36a186f7742523398433",
+          "quantity": 1
+        },
+        {
+          "name": "Antique teapot",
+          "template": "590de71386f774347051a052",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "368adc631e34380e06f87d00",
+      "name": "INTELPLEASE",
+      "rewards": [
+        {
+          "name": "Intelligence folder",
+          "template": "5c12613b86f7743bbe2c3f76",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "cb0062eb16099a0be642e71b",
+      "name": "PAY2WIN",
+      "rewards": [
+        {
+          "name": "12/70 Dual Sabot slug",
+          "template": "5d6e68dea4b9361bcc29e659",
+          "quantity": 1
+        },
+        {
+          "name": "UZRGM grenade fuze",
+          "template": "5e2af51086f7746d3f3c3402",
+          "quantity": 1
+        },
+        {
+          "name": "GP coin",
+          "template": "5d235b4d86f7742e017bc88a",
+          "quantity": 1
+        },
+        {
+          "name": "Rye croutons",
+          "template": "57347d3d245977448f7b7f61",
+          "quantity": 1
+        },
+        {
+          "name": "TOZ-106 20ga bolt-action shotgun",
+          "template": "5a38e6bac4a2826c6e06d79b",
+          "quantity": 1
+        },
+        {
+          "name": "20x1mm toy gun",
+          "template": "66015072e9f84d5680039678",
+          "quantity": 1
+        },
+        {
+          "name": "Tac-Kek FAST MT helmet (Replica)",
+          "template": "5ea05cf85ad9772e6624305d",
+          "quantity": 1
+        },
+        {
+          "name": "Transformer Bag",
+          "template": "56e33680d2720be2748b4576",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "907c922335fab8587b7d1ad3",
+      "name": "CAMERAMOTOR",
+      "rewards": [
+        {
+          "name": "WI-FI Camera",
+          "template": "5b4391a586f7745321235ab2",
+          "quantity": 1
+        },
+        {
+          "name": "Electric motor",
+          "template": "5d1b2fa286f77425227d1674",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "7f37b5a8ce2f040864c2adbf",
+      "name": "SERVERMAN",
+      "rewards": [
+        {
+          "name": "Flat screwdriver (Long)",
+          "template": "5d4042a986f7743185265463",
+          "quantity": 1
+        },
+        {
+          "name": "Can of Hot Rod energy drink",
+          "template": "5751496424597720a27126da",
+          "quantity": 1
+        },
+        {
+          "name": "RAM stick",
+          "template": "57347baf24597738002c6178",
+          "quantity": 4
+        },
+        {
+          "name": "Vaseline balm",
+          "template": "5755383e24597772cb798966",
+          "quantity": 1
+        },
+        {
+          "name": "Power supply unit",
+          "template": "57347c2e24597744902c94a1",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "307597966cca1c8104fab0e9",
+      "name": "LETMEIN",
+      "rewards": [
+        {
+          "name": "PNV-57E night vision goggles",
+          "template": "67506ca81f18589016006aa6",
+          "quantity": 1
+        },
+        {
+          "name": "TSh-4M-L soft tank crew helmet",
+          "template": "5df8a58286f77412631087ed",
+          "quantity": 1
+        },
+        {
+          "name": "CMS surgical kit",
+          "template": "5d02778e86f774203e7dedbe",
+          "quantity": 1
+        },
+        {
+          "name": "Bulbex cable cutter",
+          "template": "619cbfeb6b8a1b37a54eebfa",
+          "quantity": 1
+        },
+        {
+          "name": "Morphine injector",
+          "template": "544fb3f34bdc2d03748b456a",
+          "quantity": 1
+        },
+        {
+          "name": "Expeditionary fuel tank",
+          "template": "5d1b371186f774253763a656",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "6dc7412cebf0c42dca86c77b",
+      "name": "GIMMEWIRES",
+      "rewards": [
+        {
+          "name": "Bundle of wires",
+          "template": "5c06779c86f77426e00dd782",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "id": "307cbda5ddf5356db8a39cd4",
+      "name": "LIGHTSOUT",
+      "rewards": [
+        {
+          "name": "Energy-saving lamp",
+          "template": "590a3cd386f77436f20848cb",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "23a9f55540606b15f5b60ca0",
+      "name": "GENERALSKIYE",
+      "rewards": [
+        {
+          "name": "Roler Submariner gold wrist watch",
+          "template": "59faf7ca86f7740dbe19f6c2",
+          "quantity": 1
+        },
+        {
+          "name": "Round frame sunglasses",
+          "template": "5aa2b923e5b5b000137b7589",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "46c3f357f0a1f0acb306be2e",
+      "name": "1WHISKEY1JUICE",
+      "rewards": [
+        {
+          "name": "Bottle of Dan Jackiel whiskey",
+          "template": "5d403f9186f7743cac3f229b",
+          "quantity": 1
+        },
+        {
+          "name": "Pack of Russian Army pineapple juice",
+          "template": "544fb62a4bdc2dfb738b4568",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "540f41855b41e7d86785f8e5",
+      "name": "TOOLSET4FREE",
+      "rewards": [
+        {
+          "name": "Toolset",
+          "template": "590c2e1186f77425357b6124",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "603de7fce716001eb0b6e22e",
+      "name": "PLIERMAN",
+      "rewards": [
+        {
+          "name": "Pliers Elite",
+          "template": "5af04b6486f774195a3ebb49",
+          "quantity": 2
+        },
+        {
+          "name": "Hussar mustache",
+          "template": "68bedfdd233f2c935b0eda06",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "86d9e28d1a5968d906cbab37",
+      "name": "BANANA",
+      "rewards": [
+        {
+          "name": "PP-19-01 Vityaz 9x19 PUFGUN SG-919 20 20-round magazine",
+          "template": "5c0673fb0db8340023300271",
+          "quantity": 4
+        },
+        {
+          "name": "PP-19-01 Vityaz 9x19 PUFGUN SG-919 30 30-round magazine",
+          "template": "5c0672ed0db834001b7353f3",
+          "quantity": 4
+        },
+        {
+          "name": "AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine (Banana)",
+          "template": "5e21a3c67e40bd02257a008a",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": "b9565959236273c2fa6fd412",
+      "name": "ITSADRILL",
+      "rewards": [
+        {
+          "name": "Electric drill",
+          "template": "59e35de086f7741778269d84",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "c04c8305a5d200ff54355260",
+      "name": "GOONSQUAD",
+      "rewards": [
+        {
+          "name": "Roubles",
+          "template": "5449016a4bdc2d6f028b456f",
+          "quantity": 50000
+        },
+        {
+          "name": "KEKTAPE duct tape",
+          "template": "5e2af29386f7746d4159f077",
+          "quantity": 2
+        },
+        {
+          "name": "Bolts",
+          "template": "57347c5b245977448d35f6e1",
+          "quantity": 2
+        },
+        {
+          "name": "Pack of sugar",
+          "template": "59e3577886f774176a362503",
+          "quantity": 1
+        },
+        {
+          "name": "CALOK-B hemostatic applicator",
+          "template": "5e8488fa988a8701445df1e4",
+          "quantity": 1
+        },
+        {
+          "name": "Expeditionary fuel tank",
+          "template": "5d1b371186f774253763a656",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "dc78794581ba884bca4411c4",
+      "name": "SCAVYBOI",
+      "rewards": [
+        {
+          "name": "Roubles",
+          "template": "5449016a4bdc2d6f028b456f",
+          "quantity": 50000
+        },
+        {
+          "name": "Bottle of Dan Jackiel whiskey",
+          "template": "5d403f9186f7743cac3f229b",
+          "quantity": 1
+        },
+        {
+          "name": "Alyonka chocolate bar",
+          "template": "57505f6224597709a92585a9",
+          "quantity": 1
+        },
+        {
+          "name": "Bolts",
+          "template": "57347c5b245977448d35f6e1",
+          "quantity": 2
+        },
+        {
+          "name": "Screw nuts",
+          "template": "57347c77245977448d35f6e2",
+          "quantity": 2
+        },
+        {
+          "name": "Power cord",
+          "template": "59e36c6f86f774176c10a2a7",
+          "quantity": 1
+        },
+        {
+          "name": "CALOK-B hemostatic applicator",
+          "template": "5e8488fa988a8701445df1e4",
+          "quantity": 1
+        },
+        {
+          "name": "Expeditionary fuel tank",
+          "template": "5d1b371186f774253763a656",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "86e2379e4aa336ecee562cab",
+      "name": "SBEUKOMAR",
+      "rewards": [
+        {
+          "name": "Roubles",
+          "template": "5449016a4bdc2d6f028b456f",
+          "quantity": 50000
+        },
+        {
+          "name": "Corrugated hose",
+          "template": "59e35cbb86f7741778269d83",
+          "quantity": 2
+        },
+        {
+          "name": "Iskra ration pack",
+          "template": "590c5d4b86f774784e1b9c45",
+          "quantity": 1
+        },
+        {
+          "name": "Can of condensed milk",
+          "template": "5734773724597737fd047c14",
+          "quantity": 1
+        },
+        {
+          "name": "Slickers chocolate bar",
+          "template": "544fb6cc4bdc2d34748b456e",
+          "quantity": 1
+        },
+        {
+          "name": "CALOK-B hemostatic applicator",
+          "template": "5e8488fa988a8701445df1e4",
+          "quantity": 1
+        },
+        {
+          "name": "Expeditionary fuel tank",
+          "template": "5d1b371186f774253763a656",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "544103bc58591f7579c76ae3",
+      "name": "Lunar New Year 2026 - Extra Gear",
+      "requires": "1e125aa0e042afe652b5be95",
+      "rewards": [
+        {
+          "name": "FN SCAR-H 7.62x51 assault rifle (FDE)",
+          "template": "6165ac306ef05c2ce828ef74",
+          "quantity": 1
+        },
+        {
+          "name": "FN SCAR-H 7.62x51 20-round magazine (FDE)",
+          "template": "6183d53f1cb55961fa0fdcda",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "d054a179f149466106d17ff4",
+      "name": "TARKOVHALLOWEEN - Extra Gear",
+      "requires": "789c494ebe114ba6f2ddeb89",
+      "rewards": [
+        {
+          "name": "5.11 Tactical RUSH 100 backpack (Black)",
+          "template": "67458730df3c1da90b0b052b",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "89a25fb15859b0f59027f7ab",
+      "name": "1YEAROFESCAPING",
+      "rewards": [
+        {
+          "name": "Kalashnikov AK-105 5.45x39 assault rifle",
+          "template": "5ac66d9b5acfc4001633997a",
+          "quantity": 1
+        },
+        {
+          "name": "5.45x39mm BT gs",
+          "template": "56dff061d2720bb5668b4567",
+          "quantity": 150
+        },
+        {
+          "name": "Unlocked equipment crate (Rare)",
+          "template": "665730fa4de4820934746c48",
+          "quantity": 1
+        },
+        {
+          "name": "Documents case",
+          "template": "590c60fc86f77412b13fddcf",
+          "quantity": 1
+        },
+        {
+          "name": "Water filter",
+          "template": "5d1b385e86f774252167b98a",
+          "quantity": 1
+        },
+        {
+          "name": "42 Signature Blend English Tea",
+          "template": "5bc9be8fd4351e00334cae6e",
+          "quantity": 1
+        },
+        {
+          "name": "Metal fuel tank",
+          "template": "5d1b36a186f7742523398433",
+          "quantity": 1
+        },
+        {
+          "name": "RGD-5 hand grenade",
+          "template": "5448be9a4bdc2dfd2f8b456a",
+          "quantity": 5
+        },
+        {
+          "name": "Golden Star balm",
+          "template": "5751a89d24597722aa0e8db0",
+          "quantity": 5
+        },
+        {
+          "name": "Can of condensed milk",
+          "template": "5734773724597737fd047c14",
+          "quantity": 1
+        },
+        {
+          "name": "Bottle of Fierce Hatchling moonshine",
+          "template": "5d1b376e86f774252519444e",
+          "quantity": 1
+        },
+        {
+          "name": "Jar of pickles",
+          "template": "67586af7036d7f3da60c3612",
+          "quantity": 1
+        },
+        {
+          "name": "Alyonka chocolate bar",
+          "template": "57505f6224597709a92585a9",
+          "quantity": 1
+        },
+        {
+          "name": "Physical Bitcoin",
+          "template": "59faff1d86f7746c51718c9c",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "10f51f792f13993ff63c7d39",
+      "name": "9GAG",
+      "rewards": [
+        {
+          "name": "HK 416A5 5.56x45 assault rifle",
+          "template": "5bb2475ed4351e00853264e3",
+          "quantity": 1
+        },
+        {
+          "name": "Crye Precision AVS plate carrier (MultiCam)",
+          "template": "67ab49aab9c7a1e18c095686",
+          "quantity": 1
+        },
+        {
+          "name": "Eberlestock G2 Gunslinger II backpack (Dry Earth)",
+          "template": "6034d2d697633951dc245ea6",
+          "quantity": 1
+        },
+        {
+          "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine (FDE)",
+          "template": "5d1340cad7ad1a0b0b249869",
+          "quantity": 5
+        },
+        {
+          "name": "5.56x45mm M855A1",
+          "template": "54527ac44bdc2d36668b4567",
+          "quantity": 640
+        },
+        {
+          "name": "Ammunition case",
+          "template": "5aafbde786f774389d0cbc0f",
+          "quantity": 2
+        },
+        {
+          "name": "Team Wendy EXFIL Ballistic Helmet (Coyote Brown)",
+          "template": "5e01ef6886f77445f643baa4",
+          "quantity": 1
+        },
+        {
+          "name": "TW EXFIL Peltor ComTac V headset (OD Green)",
+          "template": "66b5f69ea7f72d197e70bcdb",
+          "quantity": 1
+        },
+        {
+          "name": "Peltor ComTac V headset (OD Green)",
+          "template": "66b5f693acff495a294927e3",
+          "quantity": 1
+        },
+        {
+          "name": "Armasight N-15 night vision goggles",
+          "template": "5c066e3a0db834001b7353f0",
+          "quantity": 1
+        },
+        {
+          "name": "Armasight NVG head strap",
+          "template": "5c066ef40db834001966a595",
+          "quantity": 1
+        },
+        {
+          "name": "Oakley SI M Frame safety glasses",
+          "template": "5c1a1cc52e221602b3136e3d",
+          "quantity": 1
+        },
+        {
+          "name": "M67 hand grenade",
+          "template": "58d3db5386f77426186285a0",
+          "quantity": 4
+        },
+        {
+          "name": "Salewa first aid kit",
+          "template": "544fb45d4bdc2dee738b4568",
+          "quantity": 1
+        },
+        {
+          "name": "Propital regenerative stimulant injector",
+          "template": "5c0e530286f7747fa1419862",
+          "quantity": 1
+        },
+        {
+          "name": "CALOK-B hemostatic applicator",
+          "template": "5e8488fa988a8701445df1e4",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "127098d2f108038acc46a997",
+      "name": "INVEN",
+      "rewards": [
+        {
+          "name": "Springfield Armory M1A 7.62x51 rifle",
+          "template": "5aafa857e5b5b00018480968",
+          "quantity": 1
+        },
+        {
+          "name": "M1A 7.62x51 20-round magazine",
+          "template": "5aaf8a0be5b5b00015693243",
+          "quantity": 1
+        },
+        {
+          "name": "Stich Profi Plate Carrier V2 (Black)",
+          "template": "66b6296d7994640992013b17",
+          "quantity": 1
+        },
+        {
+          "name": "Momex balaclava",
+          "template": "5b432f3d5acfc4704b4a1dfb",
+          "quantity": 1
+        },
+        {
+          "name": "ESS Crossbow tactical glasses",
+          "template": "5d5fca1ea4b93635fd598c07",
+          "quantity": 1
+        },
+        {
+          "name": "Peltor ComTac V headset (OD Green)",
+          "template": "66b5f693acff495a294927e3",
+          "quantity": 1
+        },
+        {
+          "name": "MSA Gallet TC 800 High Cut combat helmet (Black)",
+          "template": "5e4bfc1586f774264f7582d3",
+          "quantity": 1
+        },
+        {
+          "name": "7.62x51mm M993",
+          "template": "5efb0c1bd79ff02a1f5e68d9",
+          "quantity": 120
+        },
+        {
+          "name": "Gruppa 99 T30 backpack (Black)",
+          "template": "628e1ffc83ec92260c0f437f",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "23d26225f52ec23a075e06aa",
+      "name": "YYSTV",
+      "rewards": [
+        {
+          "name": "HK 416A5 5.56x45 assault rifle",
+          "template": "5bb2475ed4351e00853264e3",
+          "quantity": 1
+        },
+        {
+          "name": "5.11 Tactical RUSH 100 backpack (Black)",
+          "template": "67458730df3c1da90b0b052b",
+          "quantity": 1
+        },
+        {
+          "name": "Stich Profi Plate Carrier V2 (Black)",
+          "template": "66b6296d7994640992013b17",
+          "quantity": 1
+        },
+        {
+          "name": "Respirator",
+          "template": "59e7715586f7742ee5789605",
+          "quantity": 1
+        },
+        {
+          "name": "Diamond Age Bastion helmet (Black)",
+          "template": "5ea17ca01412a1425304d1c0",
+          "quantity": 1
+        },
+        {
+          "name": "MSA Sordin Supreme PRO-X/L headset",
+          "template": "5aa2ba71e5b5b000137b758f",
+          "quantity": 1
+        },
+        {
+          "name": "Oakley SI Batwolf glasses",
+          "template": "62a61c988ec41a51b34758d5",
+          "quantity": 1
+        },
+        {
+          "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine (FDE)",
+          "template": "5d1340cad7ad1a0b0b249869",
+          "quantity": 2
+        },
+        {
+          "name": "5.56x45mm M995",
+          "template": "59e690b686f7746c9f75e848",
+          "quantity": 120
+        }
+      ]
+    },
+    {
+      "id": "d1cc225d8afe4ea794b7ed15",
+      "name": "POLYGON",
+      "rewards": [
+        {
+          "name": "U.S. Ordnance M60E6 7.62x51 light machine gun",
+          "template": "661ceb1b9311543c7104149b",
+          "quantity": 1
+        },
+        {
+          "name": "M60 7.62x51 Capco 100-round Assault Box",
+          "template": "660ea4453786cc0af808a1be",
+          "quantity": 1
+        },
+        {
+          "name": "7.62x51mm M993",
+          "template": "5efb0c1bd79ff02a1f5e68d9",
+          "quantity": 200
+        },
+        {
+          "name": "Peltor ComTac II headset (OD Green)",
+          "template": "5645bcc04bdc2d363b8b4572",
+          "quantity": 1
+        },
+        {
+          "name": "MSA Gallet TC 800 High Cut combat helmet (Black)",
+          "template": "5e4bfc1586f774264f7582d3",
+          "quantity": 1
+        },
+        {
+          "name": "GP-7 gas mask",
+          "template": "60363c0c92ec1c31037959f5",
+          "quantity": 1
+        },
+        {
+          "name": "Gruppa 99 T30 backpack (Black)",
+          "template": "628e1ffc83ec92260c0f437f",
+          "quantity": 1
+        },
+        {
+          "name": "Stich Profi Plate Carrier V2 (Black)",
+          "template": "66b6296d7994640992013b17",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "b68ee30c64556974a409a9d5",
+      "name": "AUTOMATON",
+      "rewards": [
+        {
+          "name": "SIG MCX .300 Blackout assault rifle",
+          "template": "5fbcc1d9016cce60e8341ab3",
+          "quantity": 1
+        },
+        {
+          "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine",
+          "template": "55802d5f4bdc2dac148b458e",
+          "quantity": 2
+        },
+        {
+          "name": ".300 Blackout AP",
+          "template": "5fd20ff893a8961fc660a954",
+          "quantity": 120
+        },
+        {
+          "name": "Peltor ComTac VI headset (Coyote Brown)",
+          "template": "66b5f6985891c84aab75ca76",
+          "quantity": 1
+        },
+        {
+          "name": "Diamond Age NeoSteel High Cut helmet (Black)",
+          "template": "65709d2d21b9f815e208ff95",
+          "quantity": 1
+        },
+        {
+          "name": "Cold Fear infrared balaclava",
+          "template": "5ab8f39486f7745cd93a1cca",
+          "quantity": 1
+        },
+        {
+          "name": "5.11 Tactical RUSH 100 backpack (Black)",
+          "template": "67458730df3c1da90b0b052b",
+          "quantity": 1
+        },
+        {
+          "name": "ESS Crossbow tactical glasses",
+          "template": "5d5fca1ea4b93635fd598c07",
+          "quantity": 1
+        },
+        {
+          "name": "First Spear Strandhogg plate carrier (Ranger Green)",
+          "template": "61bcc89aef0f505f0c6cd0fc",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "7ccb3d78931604cdce0b5e79",
+      "name": "PVEPRESTIGE",
+      "rewards": [
+        {
+          "name": "Ammunition case",
+          "template": "5aafbde786f774389d0cbc0f",
+          "quantity": 1
+        },
+        {
+          "name": "Unlocked equipment crate (Rare)",
+          "template": "665730fa4de4820934746c48",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "0f1f5219386e8336915b8459",
+      "name": "ELVISVISTA",
+      "rewards": [
+        {
+          "name": "Den figurine",
+          "template": "66572b8d80b1cd4b6a67847f",
+          "quantity": 1
+        },
+        {
+          "name": "Christmas tree ornament (Silver)",
+          "template": "5df8a72c86f77412640e2e83",
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}

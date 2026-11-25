@@ -1,0 +1,2628 @@
+{
+  "544103bc58591f7579c76ae3": {
+    "rewards": [
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "f5a15485f27064e31761f544",
+        "index": 0,
+        "items": [
+          {
+            "_id": "66437a887c2afa12a7e15d15",
+            "_tpl": "689166b6c2d6fa42e7044756",
+            "upd": {
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "Foldable": {
+                "Folded": false
+              },
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "3701c11bcc625191977a671c",
+            "_tpl": "649ec107961514b22506b10c",
+            "parentId": "66437a887c2afa12a7e15d15",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "3bbab85059a2f46c83f291a6",
+            "_tpl": "689167d79f03ec70cb0ea066",
+            "parentId": "66437a887c2afa12a7e15d15",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "a99e9075ba3fb34a7d34554f",
+            "_tpl": "5beec8ea0db834001a6f9dbf",
+            "parentId": "66437a887c2afa12a7e15d15",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "a754ae8fba4cbe0c72d0c9c9",
+            "_tpl": "689167248f19dbc8190728ed",
+            "parentId": "66437a887c2afa12a7e15d15",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "5013a9773ff190ef2ba49b6b",
+            "_tpl": "68916765fa628c6b9f0ed6f6",
+            "parentId": "a754ae8fba4cbe0c72d0c9c9",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "2603adfd754e7a389c69e37b",
+            "_tpl": "649ec2cec93611967b03495e",
+            "parentId": "5013a9773ff190ef2ba49b6b",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "b55cfe3f20dee416ed43dcea",
+            "_tpl": "649ec87d8007560a9001ab36",
+            "parentId": "66437a887c2afa12a7e15d15",
+            "slotId": "mod_stock_001"
+          },
+          {
+            "_id": "3dc3e51df5fe76834b96ad6a",
+            "_tpl": "5beec8c20db834001d2c465c",
+            "parentId": "b55cfe3f20dee416ed43dcea",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "0163966c7d8a8584e329e51c",
+            "_tpl": "68916701bd91cc17c109c758",
+            "parentId": "66437a887c2afa12a7e15d15",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "e2ba70d721f10ca06b987a6d",
+            "_tpl": "689166debd91cc17c109c753",
+            "parentId": "66437a887c2afa12a7e15d15",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "595de92351e99c03704424a6",
+            "_tpl": "5beecbb80db834001d2c465e",
+            "parentId": "e2ba70d721f10ca06b987a6d",
+            "slotId": "mod_mount_001"
+          }
+        ],
+        "target": "66437a887c2afa12a7e15d15",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "22f4e1470a056a5b90b22fd9",
+        "index": 1,
+        "items": [
+          {
+            "_id": "f15510f907807ae9ef71f1b2",
+            "_tpl": "68916701bd91cc17c109c758",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "f15510f907807ae9ef71f1b2",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "99069fc7603e345b5fe405c2",
+        "index": 2,
+        "items": [
+          {
+            "_id": "4d3e869c86f95b3496903889",
+            "_tpl": "68916701bd91cc17c109c758",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "4d3e869c86f95b3496903889",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "c7821991cee8c8e4cd30305d",
+        "index": 3,
+        "items": [
+          {
+            "_id": "8b92e74814303bb73929c1a9",
+            "_tpl": "68916701bd91cc17c109c758",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "8b92e74814303bb73929c1a9",
+        "type": "Item",
+        "value": "1"
+      }
+    ],
+    "description": "Claim this gift once per PMC profile.\n1 x Kalashnikov AK-308 7.62x51 assault rifle\n3 x AK-308 7.62x51 20-round magazine\n\nThe AK-308 and its magazines come from WTT Content Backport."
+  },
+  "d054a179f149466106d17ff4": {
+    "rewards": [
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "21974dee893e71ed14e6491a",
+        "index": 0,
+        "items": [
+          {
+            "_id": "908af96440497351e6fd1a9a",
+            "_tpl": "68947a8ce4bf255d1b0ca759",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "908af96440497351e6fd1a9a",
+        "type": "Item",
+        "value": "1"
+      }
+    ],
+    "description": "Claim this gift once per PMC profile.\n1 x Tasmanian Tiger Modular Pack 45 Plus (MultiCam Black)\n\nThe Tasmanian Tiger backpack comes from WTT Content Backport."
+  },
+  "89a25fb15859b0f59027f7ab": {
+    "rewards": [
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "1e2a046d4849f1a246309be9",
+        "index": 0,
+        "items": [
+          {
+            "_id": "75e12d18a9f614a454ddbe9c",
+            "_tpl": "69f9ebbcaae020b0db02f65d",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "ae64e43320b24f701125111c",
+            "_tpl": "69f9ecb8df2c2358a9041858",
+            "parentId": "75e12d18a9f614a454ddbe9c",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "d8cc206f49070ebc463a2a7a",
+            "_tpl": "69f9ec5a7596e93e340c0a1e",
+            "parentId": "75e12d18a9f614a454ddbe9c",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "c8d20b2301d6e9e8e607426a",
+            "_tpl": "69f9ecc5df2c2358a904185c",
+            "parentId": "75e12d18a9f614a454ddbe9c",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "85da09101f191799bfe5f4c8",
+            "_tpl": "69f9ebf07596e93e340c0a16",
+            "parentId": "c8d20b2301d6e9e8e607426a",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "294121d441c08bb6216585fb",
+            "_tpl": "69f9eca1ddaf0c377d0eb74e",
+            "parentId": "85da09101f191799bfe5f4c8",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6fbf2ee965a2722f6f14c84b",
+            "_tpl": "69f9ec0cddaf0c377d0eb748",
+            "parentId": "85da09101f191799bfe5f4c8",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "941a03d4536a557b9412912b",
+            "_tpl": "69f9f111df2c2358a904186f",
+            "parentId": "c8d20b2301d6e9e8e607426a",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "5260b96af2b4673667e35ebf",
+            "_tpl": "69f9f0a86b45e1d5210c6955",
+            "parentId": "c8d20b2301d6e9e8e607426a",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "bde29af4b152e485f2de1933",
+            "_tpl": "69f9f0c325db06fcf60a88e6",
+            "parentId": "75e12d18a9f614a454ddbe9c",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6a0ad6b774832c6f75e80ae4",
+            "_tpl": "69f9f0b58676a3db2a096808",
+            "parentId": "bde29af4b152e485f2de1933",
+            "slotId": "mod_stock_000"
+          }
+        ],
+        "target": "75e12d18a9f614a454ddbe9c",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "9b3d71c41bcebacb8b6de0ee",
+        "index": 1,
+        "items": [
+          {
+            "_id": "fb5f2316881c399bcd4239bf",
+            "_tpl": "6a07208057b2695f9d001e63",
+            "upd": {
+              "StackObjectsCount": 80
+            }
+          }
+        ],
+        "target": "fb5f2316881c399bcd4239bf",
+        "type": "Item",
+        "value": "80"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "aebcdd84e89e3a3b456bbe15",
+        "index": 2,
+        "items": [
+          {
+            "_id": "a63801dfa753cc6d1107c77f",
+            "_tpl": "6a07208057b2695f9d001e63",
+            "upd": {
+              "StackObjectsCount": 70
+            }
+          }
+        ],
+        "target": "a63801dfa753cc6d1107c77f",
+        "type": "Item",
+        "value": "70"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "9e7331cb17616847d99a8e9b",
+        "index": 3,
+        "items": [
+          {
+            "_id": "e2a96335a010fa62ec51af8c",
+            "_tpl": "665730fa4de4820934746c48",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "e2a96335a010fa62ec51af8c",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "fe6b714f19cd9e60f6c85d2d",
+        "index": 4,
+        "items": [
+          {
+            "_id": "0b0b72cd20793a7ebb854301",
+            "_tpl": "590c60fc86f77412b13fddcf",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "0b0b72cd20793a7ebb854301",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "850d79e12be1a4c81ee38b3b",
+        "index": 5,
+        "items": [
+          {
+            "_id": "da25ff37ab7fd298da5f3faa",
+            "_tpl": "6a9980872a87c16fef04789f",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "da25ff37ab7fd298da5f3faa",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "a1a9fcc46c9abcbfa9fd977b",
+        "index": 6,
+        "items": [
+          {
+            "_id": "6c6d2d265ad67fb1beb9c521",
+            "_tpl": "5bc9be8fd4351e00334cae6e",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "6c6d2d265ad67fb1beb9c521",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "cc0db33a75ff570319a2bd0d",
+        "index": 7,
+        "items": [
+          {
+            "_id": "d7b3c3c0ffa7acac4e21077c",
+            "_tpl": "5d1b36a186f7742523398433",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "d7b3c3c0ffa7acac4e21077c",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "a4a9af2a3a16937bcf3c9747",
+        "index": 8,
+        "items": [
+          {
+            "_id": "30c1dfae4baa99d45e021125",
+            "_tpl": "5448be9a4bdc2dfd2f8b456a",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "30c1dfae4baa99d45e021125",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "be986e6dab8261805f3fffab",
+        "index": 9,
+        "items": [
+          {
+            "_id": "64a12d6f4ecd045eac082ae9",
+            "_tpl": "5448be9a4bdc2dfd2f8b456a",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "64a12d6f4ecd045eac082ae9",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "97bd436de2377ec9c0dff88d",
+        "index": 10,
+        "items": [
+          {
+            "_id": "fc1ca0c35d4826787d59488c",
+            "_tpl": "5448be9a4bdc2dfd2f8b456a",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "fc1ca0c35d4826787d59488c",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "7ac534e1c2d7f16432e10154",
+        "index": 11,
+        "items": [
+          {
+            "_id": "89ce195f75ad3a5b0d0a4132",
+            "_tpl": "5448be9a4bdc2dfd2f8b456a",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "89ce195f75ad3a5b0d0a4132",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "c845842ea2b611ee9ad8bdce",
+        "index": 12,
+        "items": [
+          {
+            "_id": "1212801ece52cc9b59c9b064",
+            "_tpl": "5448be9a4bdc2dfd2f8b456a",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "1212801ece52cc9b59c9b064",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "f65bdfa7412ad84ec5da4796",
+        "index": 13,
+        "items": [
+          {
+            "_id": "f4740df47a99f6245a12d4fc",
+            "_tpl": "5751a89d24597722aa0e8db0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "f4740df47a99f6245a12d4fc",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "654d9975a9694f12280fc5f6",
+        "index": 14,
+        "items": [
+          {
+            "_id": "be0b669897df52b6ea4c9a8a",
+            "_tpl": "5751a89d24597722aa0e8db0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "be0b669897df52b6ea4c9a8a",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "e80ce68f22c40564c6e78e7e",
+        "index": 15,
+        "items": [
+          {
+            "_id": "d75f209b1917b799db859e73",
+            "_tpl": "5751a89d24597722aa0e8db0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "d75f209b1917b799db859e73",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "60c2c4cf58a15e8aef74ce96",
+        "index": 16,
+        "items": [
+          {
+            "_id": "b7b0cdadce24c994d0fc0863",
+            "_tpl": "5751a89d24597722aa0e8db0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "b7b0cdadce24c994d0fc0863",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "519c1ed5b0d426d6d0603c76",
+        "index": 17,
+        "items": [
+          {
+            "_id": "41338470e6d1d94e7c7bddd3",
+            "_tpl": "5751a89d24597722aa0e8db0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "41338470e6d1d94e7c7bddd3",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "7ac9c3d182ddce0f53244424",
+        "index": 18,
+        "items": [
+          {
+            "_id": "5106a05d775540c01aeefa42",
+            "_tpl": "5734773724597737fd047c14",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "5106a05d775540c01aeefa42",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "b926dedcaabfd5157d69f75c",
+        "index": 19,
+        "items": [
+          {
+            "_id": "ff07b7b9af5c6cfa0e90a4a7",
+            "_tpl": "5d1b376e86f774252519444e",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "ff07b7b9af5c6cfa0e90a4a7",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "dc6e24035cb7f3acfce43e55",
+        "index": 20,
+        "items": [
+          {
+            "_id": "9731ca84c0a8b258e6c20634",
+            "_tpl": "67586af7036d7f3da60c3612",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "9731ca84c0a8b258e6c20634",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "8536c4fa8f5d13c1081a3ee0",
+        "index": 21,
+        "items": [
+          {
+            "_id": "53a2785906a4aa0f6cf4254f",
+            "_tpl": "57505f6224597709a92585a9",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "53a2785906a4aa0f6cf4254f",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "336f3dc3c094b42cc2bdaf9e",
+        "index": 22,
+        "items": [
+          {
+            "_id": "32b36278aafd8b51c4356375",
+            "_tpl": "59faff1d86f7746c51718c9c",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "32b36278aafd8b51c4356375",
+        "type": "Item",
+        "value": "1"
+      }
+    ],
+    "description": "Claim this gift once per PMC profile.\n1 x Norinco QBZ-191 5.8x42 assault rifle\n150 x 5.8x42mm DBP191\n1 x Unlocked equipment crate (Rare)\n1 x Documents case\n1 x Everclear two-stage water filter\n1 x 42 Signature Blend English Tea\n1 x Metal fuel tank\n5 x RGD-5 hand grenade\n5 x Golden Star balm\n1 x Can of condensed milk\n1 x Bottle of Fierce Hatchling moonshine\n1 x Jar of pickles\n1 x Alyonka chocolate bar\n1 x Physical Bitcoin\n\nWTT Content Backport supplies the QBZ-191, its DBP191 ammunition, and Everclear. An unlocked rare equipment crate and Documents case stand in for the two seasonal containers."
+  },
+  "10f51f792f13993ff63c7d39": {
+    "rewards": [
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "57f312d57b60fe701b8a0439",
+        "index": 0,
+        "items": [
+          {
+            "_id": "9aa7bfdd234312c17633af2a",
+            "_tpl": "5bb2475ed4351e00853264e3",
+            "upd": {
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "f07d1e16d36822d7cbe85729",
+            "_tpl": "5bb20e0ed4351e3bac1212dc",
+            "parentId": "9aa7bfdd234312c17633af2a",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "700eedcc02e60149e5421fe0",
+            "_tpl": "5c05413a0db834001c390617",
+            "parentId": "9aa7bfdd234312c17633af2a",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "f12ed21c9c7f7a1564af5f18",
+            "_tpl": "5bb20d53d4351e4502010a69",
+            "parentId": "9aa7bfdd234312c17633af2a",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "92ae90df8cfefb77dc4cb610",
+            "_tpl": "5bb20d9cd4351e00334c9d8a",
+            "parentId": "f12ed21c9c7f7a1564af5f18",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "f34264b03bfa18e589a1eb52",
+            "_tpl": "544a38634bdc2d58388b4568",
+            "parentId": "92ae90df8cfefb77dc4cb610",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "c5d361cbb9b80a385562a701",
+            "_tpl": "5bb20dcad4351e3bac1212da",
+            "parentId": "92ae90df8cfefb77dc4cb610",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "fe532ba0722cc8e0eaf06f58",
+            "_tpl": "5bb20de5d4351e0035629e59",
+            "parentId": "f12ed21c9c7f7a1564af5f18",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "01724ff8fea43ddf4caece72",
+            "_tpl": "5bb20e49d4351e3bac1212de",
+            "parentId": "f12ed21c9c7f7a1564af5f18",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "a8c0babdcfb11643728d14a0",
+            "_tpl": "5bb20e58d4351e00320205d7",
+            "parentId": "9aa7bfdd234312c17633af2a",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "84ad441b823e048bcaacc3c3",
+            "_tpl": "5bb20e70d4351e0035629f8f",
+            "parentId": "a8c0babdcfb11643728d14a0",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_id": "fee86788ffab13701c5b9b17",
+            "_tpl": "5bb20dbcd4351e44f824c04e",
+            "parentId": "9aa7bfdd234312c17633af2a",
+            "slotId": "mod_charge"
+          }
+        ],
+        "target": "9aa7bfdd234312c17633af2a",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "8f9e58ecbd5cf37b478c2082",
+        "index": 1,
+        "items": [
+          {
+            "_id": "95803bd85ea6b930d01af89f",
+            "_tpl": "693fd0e9deee848f70054999",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "95803bd85ea6b930d01af89f",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "c24513224250176849a97bd3",
+        "index": 2,
+        "items": [
+          {
+            "_id": "7b07439189e35cc19ab60f13",
+            "_tpl": "6034d2d697633951dc245ea6",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "7b07439189e35cc19ab60f13",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "d638004588c54887ba4e4be1",
+        "index": 3,
+        "items": [
+          {
+            "_id": "db7e86a39370275071a625c4",
+            "_tpl": "5d1340cad7ad1a0b0b249869",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "db7e86a39370275071a625c4",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "2dd4f70c463854bfd615fc07",
+        "index": 4,
+        "items": [
+          {
+            "_id": "c1b097d0fdcb5fb3d20b420a",
+            "_tpl": "5d1340cad7ad1a0b0b249869",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "c1b097d0fdcb5fb3d20b420a",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "8464e7a46ab4d767ff7ecca8",
+        "index": 5,
+        "items": [
+          {
+            "_id": "5fca9b4bec5b758084b97f49",
+            "_tpl": "5d1340cad7ad1a0b0b249869",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "5fca9b4bec5b758084b97f49",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "a2315a4094fd6b06c10a208b",
+        "index": 6,
+        "items": [
+          {
+            "_id": "162dba8f28f5f022ac53ee89",
+            "_tpl": "5d1340cad7ad1a0b0b249869",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "162dba8f28f5f022ac53ee89",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "b2067ec46385629880c5a18c",
+        "index": 7,
+        "items": [
+          {
+            "_id": "3f3aea5620f562bb08a7e272",
+            "_tpl": "5d1340cad7ad1a0b0b249869",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "3f3aea5620f562bb08a7e272",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "b61033426acf2aaae90c1f4e",
+        "index": 8,
+        "items": [
+          {
+            "_id": "fa7115716094a21a5261fd02",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "fa7115716094a21a5261fd02",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "03576fb254089e204ac9a423",
+        "index": 9,
+        "items": [
+          {
+            "_id": "fccdf64bda589d7565937309",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "fccdf64bda589d7565937309",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "eb235c2a9360f02db78e419e",
+        "index": 10,
+        "items": [
+          {
+            "_id": "6353513ada8e9827ca5f4dda",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "6353513ada8e9827ca5f4dda",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "4ef01444be8765f06e87db2b",
+        "index": 11,
+        "items": [
+          {
+            "_id": "f32c8b759f81b86c80dd7544",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "f32c8b759f81b86c80dd7544",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "3865699c9f483a5d404040f5",
+        "index": 12,
+        "items": [
+          {
+            "_id": "b2a84752604a31f69f8ed915",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "b2a84752604a31f69f8ed915",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "5daafcb85fa0bf11b8e75077",
+        "index": 13,
+        "items": [
+          {
+            "_id": "b56c2d7dd421d2b627f3576e",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "b56c2d7dd421d2b627f3576e",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "ac7901948aecf0c1c854bbab",
+        "index": 14,
+        "items": [
+          {
+            "_id": "3a877fe39ded9f9d37059089",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "3a877fe39ded9f9d37059089",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "098a11015bd5de9042e5df2e",
+        "index": 15,
+        "items": [
+          {
+            "_id": "6a565231ed6bfb4563be87ce",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "6a565231ed6bfb4563be87ce",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "6cb39a315edd1bfe1156eeb8",
+        "index": 16,
+        "items": [
+          {
+            "_id": "cb3d2e8707d2ad54fecd5bac",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "cb3d2e8707d2ad54fecd5bac",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "a1702374acb57ad4703a6b01",
+        "index": 17,
+        "items": [
+          {
+            "_id": "54ba884e6576ca785fde97df",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "54ba884e6576ca785fde97df",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "cec2b0cfa358aa6fc306b820",
+        "index": 18,
+        "items": [
+          {
+            "_id": "aae15e536a7cf46745b1bce8",
+            "_tpl": "54527ac44bdc2d36668b4567",
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          }
+        ],
+        "target": "aae15e536a7cf46745b1bce8",
+        "type": "Item",
+        "value": "40"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "ea667ad388b17eb9b4e3382f",
+        "index": 19,
+        "items": [
+          {
+            "_id": "a6e7b1920e3e0649c847349c",
+            "_tpl": "5aafbde786f774389d0cbc0f",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "a6e7b1920e3e0649c847349c",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "4eed36e7a9845b3c3668afc3",
+        "index": 20,
+        "items": [
+          {
+            "_id": "2ce51a44e2319f34d12a383d",
+            "_tpl": "5aafbde786f774389d0cbc0f",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "2ce51a44e2319f34d12a383d",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "7ee161abb32144d947e37891",
+        "index": 21,
+        "items": [
+          {
+            "_id": "749f15f35ffa2dc047bedbfd",
+            "_tpl": "5e01ef6886f77445f643baa4",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "ac58db2e8cd31ba115ec8fcc",
+            "_tpl": "6551fec55d0cf82e51014288",
+            "parentId": "749f15f35ffa2dc047bedbfd",
+            "slotId": "helmet_top"
+          },
+          {
+            "_id": "a9de3da0ac232f2e310de22f",
+            "_tpl": "655200ba0ef76cf7be09d528",
+            "parentId": "749f15f35ffa2dc047bedbfd",
+            "slotId": "helmet_back"
+          }
+        ],
+        "target": "749f15f35ffa2dc047bedbfd",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "b5f7baade84141e0f06c2e8e",
+        "index": 22,
+        "items": [
+          {
+            "_id": "9052c374eeee93df64779f6a",
+            "_tpl": "66b5f69ea7f72d197e70bcdb",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "9052c374eeee93df64779f6a",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "f3a4a3aeded3eb35f78803b2",
+        "index": 23,
+        "items": [
+          {
+            "_id": "4dd5dd5d63bd2bac584c0b2c",
+            "_tpl": "66b5f693acff495a294927e3",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "4dd5dd5d63bd2bac584c0b2c",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "1815a5b64b00de98f9933f67",
+        "index": 24,
+        "items": [
+          {
+            "_id": "0e5551b479d8cbc64e5abcdd",
+            "_tpl": "5c066e3a0db834001b7353f0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "0e5551b479d8cbc64e5abcdd",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "0d83e29598a769ca66ce8d55",
+        "index": 25,
+        "items": [
+          {
+            "_id": "78019f8bfa343eae1e3c2d75",
+            "_tpl": "689b8883b49f27df1c0873f8",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "78019f8bfa343eae1e3c2d75",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "b96e3215991da91884caed04",
+        "index": 26,
+        "items": [
+          {
+            "_id": "fbcce8d41ced11e00fd422b2",
+            "_tpl": "68d159d46c606e46b605094d",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "fbcce8d41ced11e00fd422b2",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "5922c49712a2e5fc671c1498",
+        "index": 27,
+        "items": [
+          {
+            "_id": "022fd13c6a438fa200fd76dd",
+            "_tpl": "5c1a1cc52e221602b3136e3d",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "022fd13c6a438fa200fd76dd",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "40e63128a10dd261d590af5f",
+        "index": 28,
+        "items": [
+          {
+            "_id": "38dffe1398cd545927bd41a4",
+            "_tpl": "58d3db5386f77426186285a0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "38dffe1398cd545927bd41a4",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "f6ad7efe1c017288c09c5e1e",
+        "index": 29,
+        "items": [
+          {
+            "_id": "f38a1156e93a67ef48131ce1",
+            "_tpl": "58d3db5386f77426186285a0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "f38a1156e93a67ef48131ce1",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "44e23789efdaa6fd1b241021",
+        "index": 30,
+        "items": [
+          {
+            "_id": "6991c0a6318e1a9ec3b225bd",
+            "_tpl": "58d3db5386f77426186285a0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "6991c0a6318e1a9ec3b225bd",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "5b9322ede003940005e648f3",
+        "index": 31,
+        "items": [
+          {
+            "_id": "6cf5f755ad25c263a0b1dad7",
+            "_tpl": "58d3db5386f77426186285a0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "6cf5f755ad25c263a0b1dad7",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "f7d457d04014cdc254a4ff3b",
+        "index": 32,
+        "items": [
+          {
+            "_id": "bcc819301ffaebd43d30498e",
+            "_tpl": "544fb45d4bdc2dee738b4568",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "bcc819301ffaebd43d30498e",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "bb9bc09aca01b2ab8ae04fbb",
+        "index": 33,
+        "items": [
+          {
+            "_id": "5de66d4a57486d9d641b289f",
+            "_tpl": "5c0e530286f7747fa1419862",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "5de66d4a57486d9d641b289f",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "6ad2c8eb88921d4d36e1cb13",
+        "index": 34,
+        "items": [
+          {
+            "_id": "927906e70a0f85c7cd880c37",
+            "_tpl": "5e8488fa988a8701445df1e4",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "927906e70a0f85c7cd880c37",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "a06c26d8ac3d06c441e78e68",
+        "index": 35,
+        "items": [
+          {
+            "_id": "7c0f79e3380730b77dc1aa6e",
+            "_tpl": "5e8488fa988a8701445df1e4",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "7c0f79e3380730b77dc1aa6e",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "3f4dc1a8b090bca544600914",
+        "index": 36,
+        "items": [
+          {
+            "_id": "a8567a10da872cad37e7d900",
+            "_tpl": "5e8488fa988a8701445df1e4",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "a8567a10da872cad37e7d900",
+        "type": "Item",
+        "value": "1"
+      }
+    ],
+    "description": "Claim this gift once per PMC profile.\n1 x HK 416A5 5.56x45 assault rifle\n1 x Crye Precision JPC Plate Carrier (MultiCam)\n1 x Eberlestock G2 Gunslinger II backpack (Dry Earth)\n5 x AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine (FDE)\n640 x 5.56x45mm M855A1\n2 x Ammunition case\n1 x Team Wendy EXFIL Ballistic Helmet (Coyote Brown)\n1 x TW EXFIL Peltor ComTac V headset (OD Green)\n1 x Peltor ComTac V headset (OD Green)\n1 x Armasight N-15 night vision goggles\n1 x Wilcox L4G24 NVG Mount (Coyote)\n1 x Armasight N-15 Swing Arm #194\n1 x Oakley SI M Frame safety glasses\n4 x M67 hand grenade\n1 x Salewa first aid kit\n1 x Propital regenerative stimulant injector\n3 x CALOK-B hemostatic applicator\n\nWTT Content Backport supplies the JPC and both N-15 mounts. The HK 416A5 uses its stock build."
+  },
+  "127098d2f108038acc46a997": {
+    "rewards": [
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "a3a4b16afc241bbb76063af1",
+        "index": 0,
+        "items": [
+          {
+            "_id": "bf30f3ee24fd5423a4327d64",
+            "_tpl": "5aafa857e5b5b00018480968",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "7499b9db720627be8dd44f70",
+            "_tpl": "64b9e2037fdfb81df81e3c25",
+            "parentId": "bf30f3ee24fd5423a4327d64",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "0d4e24a6dd11acd609fffd0f",
+            "_tpl": "5aaf8e43e5b5b00015693246",
+            "parentId": "bf30f3ee24fd5423a4327d64",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "089368aa737f1c891039b11b",
+            "_tpl": "5ab24ef9e5b5b00fe93c9209",
+            "parentId": "0d4e24a6dd11acd609fffd0f",
+            "slotId": "mod_mount"
+          },
+          {
+            "_id": "adb997a16d2c28a76408ca9d",
+            "_tpl": "5aaf9d53e5b5b00015042a52",
+            "parentId": "bf30f3ee24fd5423a4327d64",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "8e3b41ebd4cd2475a9e08a93",
+            "_tpl": "5aafa1c2e5b5b00015042a56",
+            "parentId": "adb997a16d2c28a76408ca9d",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "bdb51fb5522da769b10f6f43",
+            "_tpl": "5aafa49ae5b5b00015042a58",
+            "parentId": "8e3b41ebd4cd2475a9e08a93",
+            "slotId": "mod_sight_front"
+          },
+          {
+            "_id": "9e465b763d3129d458fcc55b",
+            "_tpl": "5abcbb20d8ce87001773e258",
+            "parentId": "bf30f3ee24fd5423a4327d64",
+            "slotId": "mod_sight_rear"
+          }
+        ],
+        "target": "bf30f3ee24fd5423a4327d64",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "948fdcfb456948e970e8838e",
+        "index": 1,
+        "items": [
+          {
+            "_id": "eca8eda7ddf7f32fd0e67ae4",
+            "_tpl": "5aaf8a0be5b5b00015693243",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "eca8eda7ddf7f32fd0e67ae4",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "abb9e9e655c98e524e9b8c20",
+        "index": 2,
+        "items": [
+          {
+            "_id": "3f28a3957aa187391875aef0",
+            "_tpl": "689479cb47e5acd1e10be986",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "7964ef4cb68e4956af7e1d97",
+            "_tpl": "68a5ec952295a9739b032dd8",
+            "parentId": "3f28a3957aa187391875aef0",
+            "slotId": "Soft_armor_front"
+          },
+          {
+            "_id": "8685d65e4fea619d8dc1d19d",
+            "_tpl": "68a5ec3731f944d6be0efd64",
+            "parentId": "3f28a3957aa187391875aef0",
+            "slotId": "Soft_armor_back"
+          },
+          {
+            "_id": "26d3a0dcfe8213a6b544922c",
+            "_tpl": "68a5ecd83acdf023050b1c1c",
+            "parentId": "3f28a3957aa187391875aef0",
+            "slotId": "Soft_armor_left"
+          },
+          {
+            "_id": "d632f3686b43ed0e07ea416c",
+            "_tpl": "68a5ee4b91ebcb4d0c019d88",
+            "parentId": "3f28a3957aa187391875aef0",
+            "slotId": "soft_armor_right"
+          },
+          {
+            "_id": "7035b8bacdc1cf89a1f6b360",
+            "_tpl": "656fae5f7c2d57afe200c0d7",
+            "parentId": "3f28a3957aa187391875aef0",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "049b55fd9be8cf36a9d4a21a",
+            "_tpl": "656fae5f7c2d57afe200c0d7",
+            "parentId": "3f28a3957aa187391875aef0",
+            "slotId": "Back_plate"
+          }
+        ],
+        "target": "3f28a3957aa187391875aef0",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "b127934d4e959ba74d246f28",
+        "index": 3,
+        "items": [
+          {
+            "_id": "1a9f8b7b3a392ef52b9bdec1",
+            "_tpl": "5b432f3d5acfc4704b4a1dfb",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "1a9f8b7b3a392ef52b9bdec1",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "b88acba1803fd118dbaf33c3",
+        "index": 4,
+        "items": [
+          {
+            "_id": "14d94a2557752505cf2a6104",
+            "_tpl": "689b3fffa1295e322207a677",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "14d94a2557752505cf2a6104",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "e432b670519c6a45f7b6875a",
+        "index": 5,
+        "items": [
+          {
+            "_id": "a0e0d0e5d15c4d205cc8f3eb",
+            "_tpl": "66b5f693acff495a294927e3",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "a0e0d0e5d15c4d205cc8f3eb",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "6f83e7d91fe99a2d35ac535f",
+        "index": 6,
+        "items": [
+          {
+            "_id": "b4057e04484bec1ef7909364",
+            "_tpl": "5e4bfc1586f774264f7582d3",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "c9ca00f89d4051a085926876",
+            "_tpl": "657f9c78ada5fadd1f07a58d",
+            "parentId": "b4057e04484bec1ef7909364",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "cd1601afeb767f7f66b29320",
+            "_tpl": "657f9cb587e11c61f70bfaca",
+            "parentId": "b4057e04484bec1ef7909364",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "target": "b4057e04484bec1ef7909364",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "bf9a9ce0eec523e0db2dacd4",
+        "index": 7,
+        "items": [
+          {
+            "_id": "bb9839145e888bec19e89e2a",
+            "_tpl": "5efb0c1bd79ff02a1f5e68d9",
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          }
+        ],
+        "target": "bb9839145e888bec19e89e2a",
+        "type": "Item",
+        "value": "40"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "ba5dc708d4e40078342f05f9",
+        "index": 8,
+        "items": [
+          {
+            "_id": "8663ae93227ceb467ae19fbb",
+            "_tpl": "5efb0c1bd79ff02a1f5e68d9",
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          }
+        ],
+        "target": "8663ae93227ceb467ae19fbb",
+        "type": "Item",
+        "value": "40"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "94e0c0e67d11a1fffbedadff",
+        "index": 9,
+        "items": [
+          {
+            "_id": "38632e43c034587fd291c56f",
+            "_tpl": "5efb0c1bd79ff02a1f5e68d9",
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          }
+        ],
+        "target": "38632e43c034587fd291c56f",
+        "type": "Item",
+        "value": "40"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "25b8bc7f5096a8442a70f55e",
+        "index": 10,
+        "items": [
+          {
+            "_id": "8e61036674cfef78df965e7f",
+            "_tpl": "68947ab5a733b1602007e2fe",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "8e61036674cfef78df965e7f",
+        "type": "Item",
+        "value": "1"
+      }
+    ],
+    "description": "Claim this gift once per PMC profile.\n1 x Springfield Armory M1A 7.62x51 rifle\n1 x M1A 7.62x51 20-round magazine\n1 x Ferro Concepts FCPC V5 Plate Carrier (Black Division)\n1 x Momex balaclava\n1 x Gatorz Specter MILSPEC ballistic glasses\n1 x Peltor ComTac V headset (OD Green)\n1 x MSA Gallet TC 800 High Cut combat helmet (Black)\n120 x 7.62x51mm M993\n1 x Mystery Ranch 2 Day Assault Pack (Black)\n\nWTT Content Backport supplies the original armor, backpack, and glasses."
+  },
+  "23d26225f52ec23a075e06aa": {
+    "rewards": [
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "938e105e4f129f71dc70024f",
+        "index": 0,
+        "items": [
+          {
+            "_id": "bbd8076cbc5bd7976e5102b6",
+            "_tpl": "5bb2475ed4351e00853264e3",
+            "upd": {
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "0e79f848b36630e3efb3fa0e",
+            "_tpl": "5bb20e0ed4351e3bac1212dc",
+            "parentId": "bbd8076cbc5bd7976e5102b6",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "376e5a97a0c1511683c85cbe",
+            "_tpl": "5c05413a0db834001c390617",
+            "parentId": "bbd8076cbc5bd7976e5102b6",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "d74b62460f16add466910936",
+            "_tpl": "5bb20d53d4351e4502010a69",
+            "parentId": "bbd8076cbc5bd7976e5102b6",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "19fec9940614aed821635bfd",
+            "_tpl": "5bb20d9cd4351e00334c9d8a",
+            "parentId": "d74b62460f16add466910936",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "e559edf722a928d822a362df",
+            "_tpl": "544a38634bdc2d58388b4568",
+            "parentId": "19fec9940614aed821635bfd",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "3e5af277320dd2669fbee813",
+            "_tpl": "5bb20dcad4351e3bac1212da",
+            "parentId": "19fec9940614aed821635bfd",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "17560811c5998f87cc836270",
+            "_tpl": "5bb20de5d4351e0035629e59",
+            "parentId": "d74b62460f16add466910936",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "7d1ccd8384aa12f0cbc7d5d2",
+            "_tpl": "5bb20e49d4351e3bac1212de",
+            "parentId": "d74b62460f16add466910936",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "23f6dbb389eddb2eb4ce791c",
+            "_tpl": "5bb20e58d4351e00320205d7",
+            "parentId": "bbd8076cbc5bd7976e5102b6",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "41bf4680534a7667d8ebccfe",
+            "_tpl": "5bb20e70d4351e0035629f8f",
+            "parentId": "23f6dbb389eddb2eb4ce791c",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_id": "e2bf7483ac535cc59661c98a",
+            "_tpl": "5bb20dbcd4351e44f824c04e",
+            "parentId": "bbd8076cbc5bd7976e5102b6",
+            "slotId": "mod_charge"
+          }
+        ],
+        "target": "bbd8076cbc5bd7976e5102b6",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "2665c239761b7eccb0005f68",
+        "index": 1,
+        "items": [
+          {
+            "_id": "64b35fa02e1f9644aece94d6",
+            "_tpl": "68947a8ce4bf255d1b0ca759",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "64b35fa02e1f9644aece94d6",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "0ada206aadcbff870466c58f",
+        "index": 2,
+        "items": [
+          {
+            "_id": "0b5d83efe076cdd53df5fa07",
+            "_tpl": "689479a4a733b1602007e2eb",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "0b5d83efe076cdd53df5fa07",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "67b6f0a62b7374ae6d10a16d",
+        "index": 3,
+        "items": [
+          {
+            "_id": "e39cc1475a0befb31d483c90",
+            "_tpl": "689b404db49f27df1c0873f6",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "e39cc1475a0befb31d483c90",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "2718985a001b6c9f42a0b8ed",
+        "index": 4,
+        "items": [
+          {
+            "_id": "86fa9dd1f26d030f9a0cabb5",
+            "_tpl": "5ea17ca01412a1425304d1c0",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "a4511b3afa5a519926141eeb",
+            "_tpl": "657f9a55c6679fefb3051e19",
+            "parentId": "86fa9dd1f26d030f9a0cabb5",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "633e947bd3e0c91809a9e066",
+            "_tpl": "657f9a94ada5fadd1f07a589",
+            "parentId": "86fa9dd1f26d030f9a0cabb5",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "target": "86fa9dd1f26d030f9a0cabb5",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "7f8a9511d5be686d1329fd57",
+        "index": 5,
+        "items": [
+          {
+            "_id": "ea4c08aba583bb2e86062151",
+            "_tpl": "5aa2ba71e5b5b000137b758f",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "ea4c08aba583bb2e86062151",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "d7bdd1a15ffbc5206afd6bb6",
+        "index": 6,
+        "items": [
+          {
+            "_id": "1da7818ac96a2350fbab7fe5",
+            "_tpl": "62a61c988ec41a51b34758d5",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "1da7818ac96a2350fbab7fe5",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "3b77223fac813098fab25418",
+        "index": 7,
+        "items": [
+          {
+            "_id": "f734a1dded62a3a255a86abb",
+            "_tpl": "5d1340cad7ad1a0b0b249869",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "f734a1dded62a3a255a86abb",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "9f0f338529889a466fd36ac3",
+        "index": 8,
+        "items": [
+          {
+            "_id": "6afd41e4ee0e92118a6e4b96",
+            "_tpl": "5d1340cad7ad1a0b0b249869",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "6afd41e4ee0e92118a6e4b96",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "b6b021ef20c54ada209ec2d2",
+        "index": 9,
+        "items": [
+          {
+            "_id": "4cf04376af3b7a5898226eab",
+            "_tpl": "59e690b686f7746c9f75e848",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "4cf04376af3b7a5898226eab",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "0fb51d9a724f429f8905c304",
+        "index": 10,
+        "items": [
+          {
+            "_id": "db9b354b053cc5e7c0cd6ca2",
+            "_tpl": "59e690b686f7746c9f75e848",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "db9b354b053cc5e7c0cd6ca2",
+        "type": "Item",
+        "value": "60"
+      }
+    ],
+    "description": "Claim this gift once per PMC profile.\n1 x HK 416A5 5.56x45 assault rifle\n1 x Tasmanian Tiger Modular Pack 45 Plus (MultiCam Black)\n1 x Spiritus Systems LV-119 Plate Carrier (Black Division V1)\n1 x Gentex Ops-Core SOTR respirator\n1 x Diamond Age Bastion helmet (Black)\n1 x MSA Sordin Supreme PRO-X/L headset\n1 x Oakley SI Batwolf glasses\n2 x AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine (FDE)\n120 x 5.56x45mm M995\n\nWTT Content Backport supplies the original backpack, armor, and respirator."
+  },
+  "d1cc225d8afe4ea794b7ed15": {
+    "rewards": [
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "6623ac2a895f396fac269415",
+        "index": 0,
+        "items": [
+          {
+            "_id": "f428f14058172b7e3bad7867",
+            "_tpl": "661ceb1b9311543c7104149b",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "3deb38f4d29262fe36c5ed75",
+            "_tpl": "660ea4453786cc0af808a1be",
+            "parentId": "f428f14058172b7e3bad7867",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "ba899571ea92802a40ac533a",
+            "_tpl": "6615202b96461aa8360271eb",
+            "parentId": "f428f14058172b7e3bad7867",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "61b787aa61c04cb8ff5202e2",
+            "_tpl": "66225d88a1c7e3b81600c76f",
+            "parentId": "f428f14058172b7e3bad7867",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "d5c6dee96ec5797c88d15f05",
+            "_tpl": "66012a1d3dff5074ed002e2a",
+            "parentId": "61b787aa61c04cb8ff5202e2",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "3531ddb997598be5c8cbdb76",
+            "_tpl": "6601268bc752a02bbe05e686",
+            "parentId": "61b787aa61c04cb8ff5202e2",
+            "slotId": "mod_sight_front"
+          },
+          {
+            "_id": "ceeea38dd79d6ecd5155349c",
+            "_tpl": "66012d003dff5074ed002e2c",
+            "parentId": "f428f14058172b7e3bad7867",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "dd167192c4ebf23165c2d34a",
+            "_tpl": "6601265f98a610c1aa0ea637",
+            "parentId": "f428f14058172b7e3bad7867",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "658b098f2072055f10a3b6da",
+            "_tpl": "6615208aa031cbb5570e346a",
+            "parentId": "f428f14058172b7e3bad7867",
+            "slotId": "mod_pistolgrip_000"
+          },
+          {
+            "_id": "5ce5f982eecc9bfb41cf8833",
+            "_tpl": "66152060a031cbb5570e3466",
+            "parentId": "658b098f2072055f10a3b6da",
+            "slotId": "mod_pistolgrip_001"
+          },
+          {
+            "_id": "5b3fe74e59d86ab999ee7d0e",
+            "_tpl": "66012d9a3dff5074ed002e33",
+            "parentId": "f428f14058172b7e3bad7867",
+            "slotId": "mod_bipod"
+          }
+        ],
+        "target": "f428f14058172b7e3bad7867",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "dd311c360bbd012b6ca851d4",
+        "index": 1,
+        "items": [
+          {
+            "_id": "c49b8e0edef92d06eb04eff5",
+            "_tpl": "660ea4453786cc0af808a1be",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "c49b8e0edef92d06eb04eff5",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "a5493f14dba044244d0e4286",
+        "index": 2,
+        "items": [
+          {
+            "_id": "0da00939814d5c4985745f21",
+            "_tpl": "5efb0c1bd79ff02a1f5e68d9",
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          }
+        ],
+        "target": "0da00939814d5c4985745f21",
+        "type": "Item",
+        "value": "40"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "3301586e352e81f5215756af",
+        "index": 3,
+        "items": [
+          {
+            "_id": "3497d0af8f2bcd71d05b07e4",
+            "_tpl": "5efb0c1bd79ff02a1f5e68d9",
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          }
+        ],
+        "target": "3497d0af8f2bcd71d05b07e4",
+        "type": "Item",
+        "value": "40"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "910f60b9306632928c273d6f",
+        "index": 4,
+        "items": [
+          {
+            "_id": "18b54c2444f8774de3c5c3b3",
+            "_tpl": "5efb0c1bd79ff02a1f5e68d9",
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          }
+        ],
+        "target": "18b54c2444f8774de3c5c3b3",
+        "type": "Item",
+        "value": "40"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "ad7fbc34bf6979558dd5fb4c",
+        "index": 5,
+        "items": [
+          {
+            "_id": "a637f0ed83c8477ac62accb1",
+            "_tpl": "5efb0c1bd79ff02a1f5e68d9",
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          }
+        ],
+        "target": "a637f0ed83c8477ac62accb1",
+        "type": "Item",
+        "value": "40"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "a631585aec8c097cab0f3c08",
+        "index": 6,
+        "items": [
+          {
+            "_id": "1928ce56681be968dcc44c7e",
+            "_tpl": "5efb0c1bd79ff02a1f5e68d9",
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          }
+        ],
+        "target": "1928ce56681be968dcc44c7e",
+        "type": "Item",
+        "value": "40"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "f2f517937ab83d9aeae94e88",
+        "index": 7,
+        "items": [
+          {
+            "_id": "17e65ba76ca9be2612658c15",
+            "_tpl": "5645bcc04bdc2d363b8b4572",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "17e65ba76ca9be2612658c15",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "4549400f54a134a9c5bb02a5",
+        "index": 8,
+        "items": [
+          {
+            "_id": "9d15e34d2e4d07ebc724afce",
+            "_tpl": "5e4bfc1586f774264f7582d3",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "30904fea2776cd26d4ee1d2a",
+            "_tpl": "657f9c78ada5fadd1f07a58d",
+            "parentId": "9d15e34d2e4d07ebc724afce",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "0b9730a2ce4273d4af190b61",
+            "_tpl": "657f9cb587e11c61f70bfaca",
+            "parentId": "9d15e34d2e4d07ebc724afce",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "target": "9d15e34d2e4d07ebc724afce",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "32d7293cd26cfe59281b7924",
+        "index": 9,
+        "items": [
+          {
+            "_id": "b908500dc438fb13f421e55a",
+            "_tpl": "689b880fff8b4adc420f5b56",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "b908500dc438fb13f421e55a",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "3d149c1ecf375bc12f33dabf",
+        "index": 10,
+        "items": [
+          {
+            "_id": "bd16213ee459ecbb0f4a1c94",
+            "_tpl": "68947ab5a733b1602007e2fe",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "bd16213ee459ecbb0f4a1c94",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "fd9fd6303ecc9146ab15b96d",
+        "index": 11,
+        "items": [
+          {
+            "_id": "50b93a4091dec11dc50733a6",
+            "_tpl": "689479a4a733b1602007e2eb",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "50b93a4091dec11dc50733a6",
+        "type": "Item",
+        "value": "1"
+      }
+    ],
+    "description": "Claim this gift once per PMC profile.\n1 x U.S. Ordnance M60E6 7.62x51 light machine gun\n1 x M60 7.62x51 Capco 100-round Assault Box\n200 x 7.62x51mm M993\n1 x Peltor ComTac II headset (OD Green)\n1 x MSA Gallet TC 800 High Cut combat helmet (Black)\n1 x Avon M53A1 gas mask\n1 x Mystery Ranch 2 Day Assault Pack (Black)\n1 x Spiritus Systems LV-119 Plate Carrier (Black Division V1)\n\nWTT Content Backport supplies the original gas mask, backpack, and armor."
+  },
+  "b68ee30c64556974a409a9d5": {
+    "rewards": [
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "106f9a66768fcf626902cb69",
+        "index": 0,
+        "items": [
+          {
+            "_id": "d8283df242dc84be5c941aa0",
+            "_tpl": "5fbcc1d9016cce60e8341ab3",
+            "upd": {
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "f86acea48ffffc73166196e9",
+            "_tpl": "5fbcbd6c187fea44d52eda14",
+            "parentId": "d8283df242dc84be5c941aa0",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "fb2d5178df947cdab3256143",
+            "_tpl": "55d4887d4bdc2d962f8b4570",
+            "parentId": "d8283df242dc84be5c941aa0",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "4ecc1a341544c7f3ac71e888",
+            "_tpl": "5fbcc3e4d6fa9c00c571bb58",
+            "parentId": "d8283df242dc84be5c941aa0",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "37ff03bfcf1fa00cc866b69d",
+            "_tpl": "5fbbfacda56d053a3543f799",
+            "parentId": "4ecc1a341544c7f3ac71e888",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "1d90755b31e2930f0002f6d8",
+            "_tpl": "5fbc22ccf24b94483f726483",
+            "parentId": "37ff03bfcf1fa00cc866b69d",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "d3d380cff4e6619039c942e8",
+            "_tpl": "5fbcbd10ab884124df0cd563",
+            "parentId": "1d90755b31e2930f0002f6d8",
+            "slotId": "mod_muzzle_000"
+          },
+          {
+            "_id": "a28f01f62b9619151fe8b2d8",
+            "_tpl": "5fbc210bf24b94483f726481",
+            "parentId": "37ff03bfcf1fa00cc866b69d",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "518dc147692e4c190b03b706",
+            "_tpl": "5fbc226eca32ed67276c155d",
+            "parentId": "4ecc1a341544c7f3ac71e888",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "e3e6e9dbabfbe8fff08e48bc",
+            "_tpl": "5fc0fa362770a0045c59c677",
+            "parentId": "518dc147692e4c190b03b706",
+            "slotId": "mod_sight_front"
+          },
+          {
+            "_id": "5ef96df33e4f8c9bb84c7ef5",
+            "_tpl": "5fc0fa957283c4046c58147e",
+            "parentId": "4ecc1a341544c7f3ac71e888",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "80d55a6110ad8eaf3cb7483a",
+            "_tpl": "5fbcc437d724d907e2077d5c",
+            "parentId": "d8283df242dc84be5c941aa0",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "12fd02a437b8ce08736efef3",
+            "_tpl": "5fbcc640016cce60e8341acc",
+            "parentId": "d8283df242dc84be5c941aa0",
+            "slotId": "mod_charge"
+          }
+        ],
+        "target": "d8283df242dc84be5c941aa0",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "355f7d01bcbd5a450aaed6a6",
+        "index": 1,
+        "items": [
+          {
+            "_id": "edf2c9421971011f77fe8b42",
+            "_tpl": "55802d5f4bdc2dac148b458e",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "edf2c9421971011f77fe8b42",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "1da5aa6718ca0aa177739009",
+        "index": 2,
+        "items": [
+          {
+            "_id": "5d4242aad711b9f26fd5c4da",
+            "_tpl": "55802d5f4bdc2dac148b458e",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "5d4242aad711b9f26fd5c4da",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "a2db2c38aef1fd264fdba834",
+        "index": 3,
+        "items": [
+          {
+            "_id": "9982a2eb822b405086932ccd",
+            "_tpl": "5fd20ff893a8961fc660a954",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "9982a2eb822b405086932ccd",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "d161d702bac3b1d79e724d7a",
+        "index": 4,
+        "items": [
+          {
+            "_id": "eca3e900f8cf3854bf5d3bf2",
+            "_tpl": "5fd20ff893a8961fc660a954",
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          }
+        ],
+        "target": "eca3e900f8cf3854bf5d3bf2",
+        "type": "Item",
+        "value": "60"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "93dd5ba8f9f487b071efb5e4",
+        "index": 5,
+        "items": [
+          {
+            "_id": "6a181c5acae3dbe871b8ab53",
+            "_tpl": "66b5f6985891c84aab75ca76",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "6a181c5acae3dbe871b8ab53",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "4d9f6d6051b7943437d4de12",
+        "index": 6,
+        "items": [
+          {
+            "_id": "017fe64eb605e9ef91bb588a",
+            "_tpl": "65709d2d21b9f815e208ff95",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "017fe64eb605e9ef91bb588a",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "7bfd0c430df96c2057ea5e05",
+        "index": 7,
+        "items": [
+          {
+            "_id": "b9a1465fe63c241a1c7d7e14",
+            "_tpl": "5ab8f39486f7745cd93a1cca",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "b9a1465fe63c241a1c7d7e14",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "a2eb180ea0c954c50261d379",
+        "index": 8,
+        "items": [
+          {
+            "_id": "32b7e7233f255ae994c50eae",
+            "_tpl": "68947a8ce4bf255d1b0ca759",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "32b7e7233f255ae994c50eae",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "cf042438d99df7ecbd4e1924",
+        "index": 9,
+        "items": [
+          {
+            "_id": "f0a1b34e34c5d18938e40a79",
+            "_tpl": "689b3fffa1295e322207a677",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "f0a1b34e34c5d18938e40a79",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "06676ffc221c885bc780ed92",
+        "index": 10,
+        "items": [
+          {
+            "_id": "ded6bdf515629a33bb96f0b8",
+            "_tpl": "68947a4be4bf255d1b0ca746",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "ded6bdf515629a33bb96f0b8",
+        "type": "Item",
+        "value": "1"
+      }
+    ],
+    "description": "Claim this gift once per PMC profile.\n1 x SIG MCX .300 Blackout assault rifle\n2 x AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine\n120 x .300 Blackout AP\n1 x Peltor ComTac VI headset (Coyote Brown)\n1 x Diamond Age NeoSteel High Cut helmet (Black)\n1 x Cold Fear infrared balaclava\n1 x Tasmanian Tiger Modular Pack 45 Plus (MultiCam Black)\n1 x Gatorz Specter MILSPEC ballistic glasses\n1 x First Spear Siege-R Optimized M.A.S.S. Plate Carrier (Black Division)\n\nWTT Content Backport supplies the original backpack, glasses, and armor."
+  },
+  "0f1f5219386e8336915b8459": {
+    "rewards": [
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "ac9a6bf2c54b7a492b7cb019",
+        "index": 0,
+        "items": [
+          {
+            "_id": "5c32ab0650940ab1b1e18909",
+            "_tpl": "690c70a2a1461a01d605a1bd",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "5c32ab0650940ab1b1e18909",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "b42165bf034d2747ea79f0bc",
+        "index": 1,
+        "items": [
+          {
+            "_id": "d06d3ad02b0c6c0c060f66ac",
+            "_tpl": "5df8a72c86f77412640e2e83",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "d06d3ad02b0c6c0c060f66ac",
+        "type": "Item",
+        "value": "1"
+      },
+      {
+        "availableInGameEditions": [],
+        "findInRaid": false,
+        "id": "757786c0c690393ea30b65e2",
+        "index": 2,
+        "items": [
+          {
+            "_id": "c15539080696163cbd2c6c7b",
+            "_tpl": "5df8a72c86f77412640e2e83",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "target": "c15539080696163cbd2c6c7b",
+        "type": "Item",
+        "value": "1"
+      }
+    ],
+    "description": "Claim this gift once per PMC profile.\n1 x Elvisvista figurine\n2 x Christmas tree ornament (Silver)\n\nWTT Content Backport supplies the Elvisvista figurine."
+  }
+}

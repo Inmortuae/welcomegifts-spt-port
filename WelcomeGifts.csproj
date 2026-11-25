@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>online.efcl.spt.welcomegifts</PackageId>
+    <Version>4.3.1</Version>
+    <Title>WelcomeGifts</Title>
+    <Authors>EFCL</Authors>
+    <Description>The gifts given by BSG in one place</Description>
+    <Copyright>EFCL</Copyright>
+    <PackageProjectUrl>https://gitlab.com/ShadowXtrex/welcomegifts</PackageProjectUrl>
+    <PackageLicenseUrl>https://choosealicense.com/licenses/mit/</PackageLicenseUrl>
+    <RepositoryUrl>https://gitlab.com/ShadowXtrex/welcomegifts</RepositoryUrl>
+    <Company>EFCL</Company>
+    <AssemblyVersion>4.3.1</AssemblyVersion>
+    <FileVersion>4.3.1</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SPTushonka.Common" Version="4.1.6" />
+    <PackageReference Include="SPTushonka.DI" Version="4.1.6" />
+    <PackageReference Include="SPTushonka.Server.Core" Version="4.1.6" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="3.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="db/**/*" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="db/**/Thumbs.db" CopyToOutputDirectory="Never" />
+  </ItemGroup>
+
+</Project>
