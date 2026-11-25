@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>online.efcl.spt.welcomegifts</PackageId>
-    <Version>4.3.1</Version>
+    <Version>4.3.2</Version>
     <Title>WelcomeGifts</Title>
     <Authors>EFCL</Authors>
     <Description>The gifts given by BSG in one place</Description>
@@ -14,8 +14,8 @@
     <PackageLicenseUrl>https://choosealicense.com/licenses/mit/</PackageLicenseUrl>
     <RepositoryUrl>https://gitlab.com/ShadowXtrex/welcomegifts</RepositoryUrl>
     <Company>EFCL</Company>
-    <AssemblyVersion>4.3.1</AssemblyVersion>
-    <FileVersion>4.3.1</FileVersion>
+    <AssemblyVersion>4.3.2</AssemblyVersion>
+    <FileVersion>4.3.2</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

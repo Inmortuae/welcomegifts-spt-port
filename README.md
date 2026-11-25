@@ -7,7 +7,11 @@ A community continuation of Welcome Gifts by ShadowXtrex (EFCL) and Senko. Inmor
 1. Close the SPT game and server. Install [WTT CommonLib 3.0.8](https://sp-mod.com/mod/2310/wtt-commonlib).
 2. Move any old Welcome Gifts folder out of `SPT_Runtime/user/mods` before upgrading.
 3. Extract the release ZIP into your SPT game directory. The mod DLL belongs at `SPT_Runtime/user/mods/WelcomeGifts/WelcomeGifts.dll`.
-4. Open Fence and Skier's tasks. Some gifts unlock after an earlier task.
+4. Open Fence's tasks for most gifts and Prapor's tasks for the two survey gifts. Some gifts unlock after an earlier task.
+
+## Version 4.3.2
+
+Appreciation Package 1 is now available at Fence. Completing it unlocks Appreciation Package 2 after its existing 63-hour wait. BSG BDay 2020 follows after completing Appreciation Package 2 and waiting another 63 hours. Existing profiles keep their quest progress.
 
 ## Version 4.3.1
 
