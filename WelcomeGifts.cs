@@ -17,9 +17,9 @@ namespace WelcomeGifts
     {
         public string ModGuid { get; init; } = "online.efcl.spt.welcomegifts";
         public string Name { get; init; } = "Welcome Gifts";
-        public string Author { get; init; } = "EFCL";
-        public List<string>? Contributors { get; init; }
-        public SemanticVersioning.Version Version { get; init; } = new("4.3.2");
+        public string Author { get; init; } = "Inmortuae";
+        public List<string>? Contributors { get; init; } = ["ShadowXtrex (EFCL)", "Senko"];
+        public SemanticVersioning.Version Version { get; init; } = new("4.3.3");
         public SemanticVersioning.Range SptVersion { get; init; } = new("4.1.6");
         public List<string>? Incompatibilities { get; init; }
         public Dictionary<string, SemanticVersioning.Range>? ModDependencies { get; init; } = new()
